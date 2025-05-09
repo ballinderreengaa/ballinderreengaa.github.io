@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Health & Performance Coaching"
+date:   2025-05-09 22:30:00 +0100
+categories: "keith carr"
+---
+<div>Keith Carr is running a 6 week training program in Ballinderreen GAA Grounds beginning on Saturday, 7th of June. There will be 3 sessions per week with classes taking place in the morning and evenings.</div><div><br /></div><div>The training program is appropriate for all fitness levels and will involve a combination of cardio intervals with functional fitness workouts.</div><div><br /></div><div>The cost is €7 per session or €90 for the full 6 weeks.</div><div><br /></div><div>Contact keithocearra@yahoo.ie or 0892163289 for more details or to register your interest.</div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe-YbZf4jq5Rkblm0SzY_ug88ip8s6CVx9R-f5n56w1oyr0E1pfHEVa5wiQCcW406Wl9rS45TRWvsk3Z4kXnqKE4TeRfCYMyepokdnGOWIzJQimGW3bFlyP30ApWCVTRYzsu3LTHNginarf9gLYdsT7pvmvrQAuJTApXr2X5_AaaCiII1kY84KP7FjeSKm/s1600/PHOTO-2025-05-08-12-47-06.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="1131" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe-YbZf4jq5Rkblm0SzY_ug88ip8s6CVx9R-f5n56w1oyr0E1pfHEVa5wiQCcW406Wl9rS45TRWvsk3Z4kXnqKE4TeRfCYMyepokdnGOWIzJQimGW3bFlyP30ApWCVTRYzsu3LTHNginarf9gLYdsT7pvmvrQAuJTApXr2X5_AaaCiII1kY84KP7FjeSKm/s16000/PHOTO-2025-05-08-12-47-06.jpg" /></a></div><br /><div><br /></div>
