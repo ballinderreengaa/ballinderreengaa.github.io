@@ -143,7 +143,13 @@ Tickets can be purchased at this link: https://www.ticketmaster.ie/galway-v-antr
 
 
 
-## South Galway Bay Music Festival
+## Fleadh Cheoil na Gaillimhe
+
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRnNkcYIS_uFhdPUNuXJy-lx0o5SutmCgZRlxD4vr7QL01H3CpmByS-_yHjeeGSrMU2nl8oLsOwqb-eRPzdT7_haZmA_0f0G9lIacOk0eW7fDQ8ZgjA4mfn9yCDDn4Rj7E09pR?key=OmR1jLxxH9pYn6zcrlg9SA)
+
+
+
+## ## South Galway Bay Music Festival
 
 Our 2025 Music Festival runs from Friday July 11th, to Sunday July 13th and tickets are now available at https://southgalwaybaymusicfestival.ie
 
