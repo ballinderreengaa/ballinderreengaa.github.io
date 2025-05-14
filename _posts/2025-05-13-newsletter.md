@@ -47,9 +47,7 @@ Thank you again for your continued support of Ballinderreen Hurling and Camogie 
 
 The lotto can now be played using ClubZap via the link below
 
-[https://ballinderreengaa.clubzap.com/categories/lotto/product
-
-](https://ballinderreengaa.clubzap.com/categories/lotto/products)
+[https://ballinderreengaa.clubzap.com/categories/lotto/product](https://ballinderreengaa.clubzap.com/categories/lotto/products)
 
 ## ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcwEqdK2ny93RuKq3hXE_Z2smpIYfc0JGmo4bS8OYPFnAKVEP-W9FFMAf43BmKN3HFqc87AYGq0INInUIcCVd_cYVXnhIxwohttXr5jnlJfEHhffZy6SpkJHzc6hMtjApg5DnhIVA?key=rjeT8XwWi3AnF0fQfKOwKg)
 
@@ -123,7 +121,7 @@ The game takes place on Wednesday, 14th of May at 6:30pm in O’Connor Park, Tul
 
 The game will be broadcast live on TG4 and commentary will also be provided by Galway Bay FM.
 
-Tickets can be purchased at the following link: https://www.universe.com/events/oneills-com-leinster-u-20-h-c-2025-semi-final-galway-v-dublin-tickets-HR6BMQ
+Tickets can be purchased at the following link: [https://www.universe.com/events/oneills-com-leinster-u-20-h-c-2025-semi-final-galway-v-dublin-tickets-HR6BMQ](https://www.universe.com/events/oneills-com-leinster-u-20-h-c-2025-semi-final-galway-v-dublin-tickets-HR6BMQ)
 
 
 
@@ -131,7 +129,7 @@ Tickets can be purchased at the following link: https://www.universe.com/events/
 
 ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxVFeFT_BFaCQT2i7ZTcSTsMbVAL8r8Iq_BHQQGrkgSqIMiq5xnamdV7YIV175WEea7TPgKE7SzEOT2nHsI027GWOo2lHpZMQ1_GMlxtUBIR9KEfAwCE-hW3duYdjsftoTUaopvw?key=rjeT8XwWi3AnF0fQfKOwKg)
 
-Ticket packages for the group stage of the football championship. These packages can be purchased before Friday night at the following link: https://am.ticketmaster.com/gaa/buy/galwaysm3mp
+Ticket packages for the group stage of the football championship. These packages can be purchased before Friday night at the following link: [https://am.ticketmaster.com/gaa/buy/galwaysm3mp](https://am.ticketmaster.com/gaa/buy/galwaysm3mp)
 
 
 
@@ -139,7 +137,7 @@ Ticket packages for the group stage of the football championship. These packages
 
 The Galway hurling and football team will play a doubleheader in Pearse Stadium this Saturday, 17th of May. The hurlers will play Antrim at 2:30pm and the football team will play Dublin at 5pm.
 
-Tickets can be purchased at this link: https://www.ticketmaster.ie/galway-v-antrim-leinster-senior-hurling-co-galway-17-05-2025/event/1800627BE94088DF
+Tickets can be purchased at this link: [https://www.ticketmaster.ie/galway-v-antrim-leinster-senior-hurling-co-galway-17-05-2025/event/1800627BE94088DF](https://www.ticketmaster.ie/galway-v-antrim-leinster-senior-hurling-co-galway-17-05-2025/event/1800627BE94088DF)
 
 
 
@@ -149,7 +147,7 @@ Tickets can be purchased at this link: https://www.ticketmaster.ie/galway-v-antr
 
 
 
-## ## South Galway Bay Music Festival
+## South Galway Bay Music Festival
 
 Our 2025 Music Festival runs from Friday July 11th, to Sunday July 13th and tickets are now available at https://southgalwaybaymusicfestival.ie
 
