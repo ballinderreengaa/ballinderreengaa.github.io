@@ -2,6 +2,7 @@
 layout: post
 title:  "Match Day Information and Traffic Management Plan for Salthill"
 date: 2025-05-15 22:00:00 +0100
+categories: [Galway GAA]
 ---
 This message is from Galway GAA:
 
