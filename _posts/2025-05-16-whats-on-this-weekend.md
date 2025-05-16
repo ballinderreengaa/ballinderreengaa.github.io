@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's On This Weekend"
-date: 2025-05-15 09:00:00 +0100
+date: 2025-05-16 13:00:00 +0100
 ---
 ## Friday
 
@@ -21,7 +21,7 @@ Mayo v Louth, All-Ireland U20 Football Semi-Final
 
 *TG4 App*
 
-**7.35pm**
+**7.30pm**
 
 Cork v Waterford, Munster Minor Hurling Championship
 
@@ -35,9 +35,9 @@ Cork v Waterford, Munster Minor Hurling Championship
 
 Galway v Antrim
 
-Time \- 2.30pm
+Time - 2.30pm
 
-Venue \- Pearse Stadium, Salthill
+Venue - Pearse Stadium, Salthill
 
 [Buy Tickets Here](https://www.ticketmaster.ie/galway-v-wexford-leinster-senior-hurling-co-galway-10-05-2025/event/1800627BE5238688)
 
@@ -45,11 +45,17 @@ Venue \- Pearse Stadium, Salthill
 
 Galway v Dublin
 
-Time \- 5pm
+Time - 5pm
 
-Venue \- Pearse Stadium, Salthill
+Venue - Pearse Stadium, Salthill
 
 ### TV
+
+**9.50am**
+
+GAA 2025 Highlights
+
+*TG4*
 
 **9.50pm**
 
@@ -103,9 +109,17 @@ Tyrone v Monaghan, Ulster Minor Football Championship
 
 Ballinderreen v Killimor
 
-Time \- 11am
+Time - 11am
 
-Venue \- Ballinderreen
+Venue - Ballinderreen
+
+#### Adult Camogie League Semi-Final
+
+Ballinderreen v Westport
+
+Time - 5pm
+
+Venue - Ballinderreen
 
 ### TV
 
@@ -155,9 +169,9 @@ Kilkenny v Dublin, Leinster Senior Hurling Championship
 
 Ardrahan v Ballinderreen
 
-Time \- 6.30pm
+Time - 6.30pm
 
-Venue \- Ardrahan
+Venue - Ardrahan
 
 ### TV
 
@@ -169,3 +183,4 @@ Offaly v Louth, Leinster Minor Football Championship
 
 ## Fleadh Cheoil na Gaillimhe
 
+![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfs8hjUto5W21WMCNig7VrsjSTQJEm62ylVJBbBeJjO4AInKDisFPIHmQQLgvKGfXfMUIS04Hz4tVoQOAX5w0izOBSSp56hjseTQAqzN4MDdAWulsJRhcLZdLj7y5TCkiYC3SdO1A?key=tMIjuM8dMj4qDivulM7N6g)
