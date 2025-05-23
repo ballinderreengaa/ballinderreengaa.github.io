@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+<p class="view">by {{ page.author | default: site.author }}</p>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuFTea2mGIwk5erYdh8O_nG8ztRpUFSZTswsOubyRk2YBOyVOZBugE59DseBCO036-nHRYaJ4JHWGbgzLY9bI1RHqvies4llz-5iOJkR8kOdFzll7c4e41LvbLBO0lhKOgmEWbng?key=rjeT8XwWi3AnF0fQfKOwKg" />
+
+{{content}}
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXet7gPjaqeIiesHY_S9EpBIr0XbP9xgKznHqxK3sknI-3uDOv205mvQm6ZMSZbc_dB8WQkL1686RHUSUWs6wrVXgZkramYPc61ivzqrLhDYd4mByEw_BWPp4PShq40qvSjCGfS7?key=rjeT8XwWi3AnF0fQfKOwKg" />
+
+<div>
+    {% if page.tags %}
+        <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+    {% endif %}
+</div>

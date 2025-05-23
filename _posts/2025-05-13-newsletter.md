@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: newsletter
 title:  "Newsletter 2025/05/13"
 date: 2025-05-13 21:00:00 +0100
+tags: [[Keith Carr], [Condolences], [Club Nursery], [Darkness into Light],[Cycle for Treasure]]
 ---
-# ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuFTea2mGIwk5erYdh8O_nG8ztRpUFSZTswsOubyRk2YBOyVOZBugE59DseBCO036-nHRYaJ4JHWGbgzLY9bI1RHqvies4llz-5iOJkR8kOdFzll7c4e41LvbLBO0lhKOgmEWbng?key=rjeT8XwWi3AnF0fQfKOwKg)     
 
 # Results
 
@@ -246,7 +246,3 @@ The deadline for applications is Friday, 23rd of May, at 4pm.
 Questions can be sent to [culturenight@galwaycoco.ie](mailto:culturenight@galwaycoco.ie)
 
 Applications can be made at the following link: https://galwaycoco.submit.com/show/111Culture
-
-
-
-## ![img](https://lh7-rt.googleusercontent.com/docsz/AD_4nXet7gPjaqeIiesHY_S9EpBIr0XbP9xgKznHqxK3sknI-3uDOv205mvQm6ZMSZbc_dB8WQkL1686RHUSUWs6wrVXgZkramYPc61ivzqrLhDYd4mByEw_BWPp4PShq40qvSjCGfS7?key=rjeT8XwWi3AnF0fQfKOwKg)
