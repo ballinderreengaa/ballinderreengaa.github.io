@@ -48,6 +48,8 @@ Venue - Gort
 
 ### Streaming
 
+---
+
 ## Saturday
 
 ### Ballinderreen
@@ -97,6 +99,8 @@ Cork v Kerry, All-Ireland Senior Football Championship
 Tyrone v Mayo, All-Ireland Senior Football Championship
 
 *GAA+*
+
+---
 
 ## Sunday
 
