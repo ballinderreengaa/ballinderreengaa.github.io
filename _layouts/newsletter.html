@@ -1,19 +1,57 @@
 ---
 layout: default
 ---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <div class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign pdate = page.date | date_to_xmlschema %}
+      {%- if page.modified_date %}<span class="meta-label">Published:</span>{% endif %}
+      <time class="dt-published" datetime="{{ pdate }}" itemprop="datePublished">
+        {{ pdate | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+        <span class="bullet-divider">•</span>
+        <span class="meta-label">Updated:</span>
+        {%- assign mdate = page.modified_date | date_to_xmlschema %}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
+      {%- if page.author %}
+      <div class="{% unless page.modified_date %}force-inline {% endunless %}post-authors">
+        {%- for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+          {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      </div>
+      {%- endif %}
+    </div>
+  </header>
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+  <div class="newsletter-header">
+    <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf__r28bmK1r2NsTCTIuUR0bkoP5WX0eQfl-AWgsTdQLFSikWzcIci43n1OYzkFNH0TKHURNOK76SENH6d93VPBAWMIlLeCEFPF6COxz4UAO79UX2szbGzMcJcFbyQ8KQ0cMZtIDA?key=GcXKnUZyX8X1Yq-ZUIyALg" alt="">
+  </div>
 
-<p class="view">by {{ page.author | default: site.author }}</p>
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuFTea2mGIwk5erYdh8O_nG8ztRpUFSZTswsOubyRk2YBOyVOZBugE59DseBCO036-nHRYaJ4JHWGbgzLY9bI1RHqvies4llz-5iOJkR8kOdFzll7c4e41LvbLBO0lhKOgmEWbng?key=rjeT8XwWi3AnF0fQfKOwKg" />
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
-{{content}}
+  <div class="newsletter-footer">
+    <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcB2g8vWeQ_nen8aAmWlvnxqWDJxgIvNpyjvtXtpiM7DSZ0oORCzqbO0dk57H7foH_aP8brQHTNxrvo7U01EYnnVpJj2AnVie_K8K-8VNvnYuiwOWMoacvOyxgMsMbG2Ogm-X2GZA?key=GcXKnUZyX8X1Yq-ZUIyALg" alt="">
+  </div>
 
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXet7gPjaqeIiesHY_S9EpBIr0XbP9xgKznHqxK3sknI-3uDOv205mvQm6ZMSZbc_dB8WQkL1686RHUSUWs6wrVXgZkramYPc61ivzqrLhDYd4mByEw_BWPp4PShq40qvSjCGfS7?key=rjeT8XwWi3AnF0fQfKOwKg" />
+  {% if jekyll.environment == 'production' -%}
+    {% if page.comments == false -%}
+    <div class="comments-disabled-message">
+      Comments have been disabled for this post.
+    </div>
+    {% else -%}
+      {%- include comments.html -%}
+    {% endif -%}
+  {% endif -%}
 
-<div>
-    {% if page.tags %}
-        <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-    {% endif %}
-</div>
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
