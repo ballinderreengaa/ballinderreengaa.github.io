@@ -104,6 +104,26 @@ Tyrone v Mayo, All-Ireland Senior Football Championship
 
 ### Galway
 
+#### All-Ireland Senior Football Championship
+
+Derry v Galway
+
+Time - 2pm
+
+Venue - Celtic Park
+
+[Buy Tickets Here](Link to tickets)
+
+#### All-Ireland Minor Hurling Championship
+
+Clare v Galway
+
+Time - 3pm
+
+Venue - Semple Stadium, Thurles
+
+[Buy Tickets Here](Link to tickets)
+
 ### TV
 
 **4pm**
