@@ -66,8 +66,37 @@ Venue - Owenbeg
 
 ### TV
 
+**1pm**
+
+Mayo v Roscommon, Nicky Rackard Cup Final
+
+*TG4*
+
+**3pm**
+
+Cavan v New York, Lory Meagher Cup Final
+
+*TG4*
+
+**5pm**
+
+Derry v London, Christy Ring Cup Final
+
+*TG4*
+
 ### Streaming
 
+**4:45pm**
+
+Cork v Kerry, All-Ireland Senior Football Championship
+
+*GAA+*
+
+**7pm**
+
+Tyrone v Mayo, All-Ireland Senior Football Championship
+
+*GAA+*
 
 ## Sunday
 
@@ -77,7 +106,22 @@ Venue - Owenbeg
 
 ### TV
 
+**4pm**
+
+Dublin v Armagh, All-Ireland Senior Football Championship
+
+*RTÉ 2*
+
 ### Streaming
 
+**1:45pm**
 
+Fermanagh v Wexford, Tailteann Cup
 
+*GAA+*
+
+**2pm**
+
+Derry v Galway, All-Ireland Senior Football Championship
+
+*GAA+*
