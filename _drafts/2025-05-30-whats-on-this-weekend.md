@@ -48,11 +48,25 @@ Venue - Gort
 
 ### Streaming
 
+**7:10pm**
+
+Na Gaeil Óga v Laochra Loch Lao, Comórtas Peile na Gaeltachta - Réamhbhabta Sóisir na bhFear
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=oAM-zIHeD-A)*
+
 ---
 
 ## Saturday
 
 ### Ballinderreen
+
+#### Senior Hurling League
+
+Ballinderreen v Killimor
+
+Time - 6:45pm
+
+Venue - St Thomas
 
 ### Galway
 
@@ -74,6 +88,12 @@ Mayo v Roscommon, Nicky Rackard Cup Final
 
 *TG4*
 
+**2:30pm**
+
+Kilkenny v Tipperary, U20 All-Ireland Hurling Final
+
+*TG4*
+
 **3pm**
 
 Cavan v New York, Lory Meagher Cup Final
@@ -88,11 +108,53 @@ Derry v London, Christy Ring Cup Final
 
 ### Streaming
 
+**12:25pm**
+
+An Longfort v Cill Mhantáin, Craobh Peile Mionúr Electric Ireland - Cluiche Ceannais Leibhéal 3
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=dmwdhatavCo)*
+
+**12:55pm**
+
+Maigh Eo v Ros Comáin, Corn Nicky Rackard - Cluiche Ceannais
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=3rMJMCEuSaY)*
+
+**1:55pm**
+
+Clann na nGael v Na Gaeil Óga, Comórtas Peile na Gaeltachta - Cluiche Ceathrú Ceannais Sóisir na mBan
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=VPIzsK47RCk)*
+
+**2:55pm**
+
+An Cabhán v Nua Eabhrac, Corn Lory Meaghar - Cluiche Ceannais
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=OCXmbzF4zaI)*
+
 **4:45pm**
 
 Cork v Kerry, All-Ireland Senior Football Championship
 
 *GAA+*
+
+**4:55pm**
+
+Doire v Londain, Corn Christy Ring - Cluiche Ceannais
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=OCXmbzF4zaI)*
+
+**4:55pm**
+
+Comórtas Peile na Gaeltachta - Cluiche Ceathrú Ceannais Sóisir na bhFear
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=uA70lMD9Es8)*
+
+**6:55pm**
+
+Cill na Martra v Naomh Anna, Leitir Móir, Comórtas Peile na Gaeltachta - Cluiche Ceathrú Ceannais Sinsir na bhFear
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=AWRvBB3GqQs)*
 
 **7pm**
 
@@ -136,7 +198,31 @@ Dublin v Armagh, All-Ireland Senior Football Championship
 
 *RTÉ 2*
 
+**5:30pm**
+
+Comórtas Peile na Gaeltachta Mens Semi-Final
+
+*TG4*
+
+**7:15pm**
+
+Comórtas Peile na Gaeltachta Mens Semi-Final
+
+*TG4*
+
 ### Streaming
+
+**12:45pm**
+
+Luimneach v Port Láirge, Craobh Iomána Mionúr Electric Ireland - Cluiche Ceathrú Ceannais na hÉireann
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=DOya8CY7buY)*
+
+**1:40pm**
+
+Clann na nGael v TBC, Comórtas Peile na Gaeltachta - Cluiche Leathcheannais Sóisir na bhFear
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=nP07VEWzu8M)*
 
 **1:45pm**
 
@@ -149,3 +235,57 @@ Fermanagh v Wexford, Tailteann Cup
 Derry v Galway, All-Ireland Senior Football Championship
 
 *GAA+*
+
+**2:55pm**
+
+An Clár v Gaillimh, Craobh Iomána Mionúr Electric Ireland - Cluiche Ceathrú Ceannais na hÉireann
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=JUe0-RFsKzc)*
+
+**3:40pm**
+
+Comórtas Peile na Gaeltachta - Cluiche Ceannais Idirmheánach na mBan
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=pBSHJFEebGc)*
+
+---
+
+## Monday
+
+### Ballinderreen
+
+### Galway
+
+### TV
+
+**11:55am**
+
+Comórtas Peile na Gaeltachta Ladies Senior Final
+
+*TG4*
+
+**1:45pm**
+
+Comórtas Peile na Gaeltachta Men's Junior Final
+
+*TG4*
+
+**3:40pm**
+
+Comórtas Peile na Gaeltachta Men's Senior Final
+
+*TG4*
+
+**7:45pm**
+
+GAA 2025
+
+*TG4*
+
+### Streaming
+
+**9:55am**
+
+Comórtas Peile na Gaeltachta - Cluiche Ceannais Sóisir na mBan
+
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=5X3auORgntE)*
