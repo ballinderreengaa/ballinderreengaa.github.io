@@ -43,15 +43,5 @@ layout: default
     <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcB2g8vWeQ_nen8aAmWlvnxqWDJxgIvNpyjvtXtpiM7DSZ0oORCzqbO0dk57H7foH_aP8brQHTNxrvo7U01EYnnVpJj2AnVie_K8K-8VNvnYuiwOWMoacvOyxgMsMbG2Ogm-X2GZA?key=GcXKnUZyX8X1Yq-ZUIyALg" alt="">
   </div>
 
-  {% if jekyll.environment == 'production' -%}
-    {% if page.comments == false -%}
-    <div class="comments-disabled-message">
-      Comments have been disabled for this post.
-    </div>
-    {% else -%}
-      {%- include comments.html -%}
-    {% endif -%}
-  {% endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
