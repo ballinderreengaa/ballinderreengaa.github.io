@@ -1,34 +1,8 @@
 ---
 layout: post
 title:  "What's On This Weekend"
-date: 2025-05-23 13:00:00 +0100
+date: 2025-05-30 13:00:00 +0100
 ---
-
-## Examples
-
-### Match on TV/Streaming
-
-**Time**
-
-Team A v Team B, Competition
-
-*Channel*
-
-### Live Match
-
-#### Competition
-
-Home Team v Away Team
-
-Time - Time
-
-Venue - Venue
-
-[Buy Tickets Here](Link to tickets)
-
----
-
-
 
 ## Friday
 
@@ -42,9 +16,7 @@ Time - 7:30pm
 
 Venue - Gort
 
-### Galway
 
-### TV
 
 ### Streaming
 
@@ -60,13 +32,15 @@ Na Gaeil Óga v Laochra Loch Lao, Comórtas Peile na Gaeltachta - Réamhbhabta S
 
 ### Ballinderreen
 
-#### Senior Hurling League
+#### U16 Camogie Shield Final
 
 Ballinderreen v Killimor
 
 Time - 6:45pm
 
 Venue - St Thomas
+
+
 
 ### Galway
 
@@ -80,13 +54,9 @@ Venue - Owenbeg
 
 [Buy Tickets Here](https://www.universe.com/users/camogie-association-0LQ93P)
 
+
+
 ### TV
-
-**1pm**
-
-Mayo v Roscommon, Nicky Rackard Cup Final
-
-*TG4*
 
 **2:30pm**
 
@@ -94,17 +64,7 @@ Kilkenny v Tipperary, U20 All-Ireland Hurling Final
 
 *TG4*
 
-**3pm**
 
-Cavan v New York, Lory Meagher Cup Final
-
-*TG4*
-
-**5pm**
-
-Derry v London, Christy Ring Cup Final
-
-*TG4*
 
 ### Streaming
 
@@ -114,11 +74,15 @@ An Longfort v Cill Mhantáin, Craobh Peile Mionúr Electric Ireland - Cluiche Ce
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=dmwdhatavCo)*
 
+
+
 **12:55pm**
 
 Maigh Eo v Ros Comáin, Corn Nicky Rackard - Cluiche Ceannais
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=3rMJMCEuSaY)*
+
+
 
 **1:55pm**
 
@@ -126,11 +90,15 @@ Clann na nGael v Na Gaeil Óga, Comórtas Peile na Gaeltachta - Cluiche Ceathrú
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=VPIzsK47RCk)*
 
+
+
 **2:55pm**
 
 An Cabhán v Nua Eabhrac, Corn Lory Meaghar - Cluiche Ceannais
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=OCXmbzF4zaI)*
+
+
 
 **4:45pm**
 
@@ -138,11 +106,15 @@ Cork v Kerry, All-Ireland Senior Football Championship
 
 *GAA+*
 
+
+
 **4:55pm**
 
 Doire v Londain, Corn Christy Ring - Cluiche Ceannais
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=OCXmbzF4zaI)*
+
+
 
 **4:55pm**
 
@@ -150,11 +122,15 @@ Comórtas Peile na Gaeltachta - Cluiche Ceathrú Ceannais Sóisir na bhFear
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=uA70lMD9Es8)*
 
+
+
 **6:55pm**
 
 Cill na Martra v Naomh Anna, Leitir Móir, Comórtas Peile na Gaeltachta - Cluiche Ceathrú Ceannais Sinsir na bhFear
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=AWRvBB3GqQs)*
+
+
 
 **7pm**
 
@@ -162,11 +138,17 @@ Tyrone v Mayo, All-Ireland Senior Football Championship
 
 *GAA+*
 
+
+
+**10:50pm**
+
+The Saturday Game
+
+*RTÉ 2*
+
 ---
 
 ## Sunday
-
-### Ballinderreen
 
 ### Galway
 
@@ -180,6 +162,8 @@ Venue - Celtic Park
 
 [Buy Tickets Here](Link to tickets)
 
+
+
 #### All-Ireland Minor Hurling Championship
 
 Clare v Galway
@@ -190,6 +174,8 @@ Venue - Semple Stadium, Thurles
 
 [Buy Tickets Here](Link to tickets)
 
+
+
 ### TV
 
 **4pm**
@@ -198,17 +184,31 @@ Dublin v Armagh, All-Ireland Senior Football Championship
 
 *RTÉ 2*
 
+
+
 **5:30pm**
 
 Comórtas Peile na Gaeltachta Mens Semi-Final
 
 *TG4*
 
+
+
 **7:15pm**
 
 Comórtas Peile na Gaeltachta Mens Semi-Final
 
 *TG4*
+
+
+
+**9:30pm**
+
+The Sunday Game
+
+*RTÉ 2*
+
+
 
 ### Streaming
 
@@ -218,11 +218,15 @@ Luimneach v Port Láirge, Craobh Iomána Mionúr Electric Ireland - Cluiche Ceat
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=DOya8CY7buY)*
 
+
+
 **1:40pm**
 
 Clann na nGael v TBC, Comórtas Peile na Gaeltachta - Cluiche Leathcheannais Sóisir na bhFear
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=nP07VEWzu8M)*
+
+
 
 **1:45pm**
 
@@ -230,17 +234,23 @@ Fermanagh v Wexford, Tailteann Cup
 
 *GAA+*
 
+
+
 **2pm**
 
 Derry v Galway, All-Ireland Senior Football Championship
 
 *GAA+*
 
+
+
 **2:55pm**
 
 An Clár v Gaillimh, Craobh Iomána Mionúr Electric Ireland - Cluiche Ceathrú Ceannais na hÉireann
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=JUe0-RFsKzc)*
+
+
 
 **3:40pm**
 
@@ -254,7 +264,15 @@ Comórtas Peile na Gaeltachta - Cluiche Ceannais Idirmheánach na mBan
 
 ### Ballinderreen
 
-### Galway
+#### U13 Hurling
+
+St Thomas v Ballinderreen
+
+Time - 6:30pm
+
+Venue - St Thomas
+
+
 
 ### TV
 
