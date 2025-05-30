@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: whats-on-this-weekend
 title:  "What's On This Weekend"
 date: 2025-05-30 13:00:00 +0100
 ---
@@ -307,3 +307,13 @@ GAA 2025
 Comórtas Peile na Gaeltachta - Cluiche Ceannais Sóisir na mBan
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=5X3auORgntE)*
+
+---
+
+## Galway Teams
+
+![Galway Football Team versus Derry](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc9pxfhcptLiUgtixDs5rDOr0pVM1AI05rvz538_WfZpT9QdXTNHD7aJ6y4UwTU8tmDTIr-3txsmlhwRiF7tNqwa2DhEVk9ZTtT_UgeV-h84iKBMp-DbblVWVyj8pvpaSP99kSDD4ZQY-f97DYNYGzfeBwOCyBBrtvthpnWYxETrEOIy7q5je96jREMO6f/s16000/502411862_1131759185663110_8158600003913334995_n.jpg)
+
+## Kilbeacanty 7's
+
+![Kilbeacabty 7's Schedule](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHkD87-0gOnuBLwXqk__BBDZ3Pd6CmBkwFq5uQukAr04SGqr1UGZihXfkrrze1F6Wigcn2ocrXW9oFj8SzdVuXFOB_xfj-wCGkXxRcEKXDVCAvPYcQyjTeHz5kANyHWsbzIsHOXcyDAAgVzvGqiIJqiF-gEKQeb0Xq6oMEse_yBLjfTJO9Xfve4MUXMpEl/s16000/500559323_17947588679987529_8094919741437888597_n.jpg)
