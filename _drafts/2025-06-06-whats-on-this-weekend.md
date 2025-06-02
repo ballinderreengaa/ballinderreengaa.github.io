@@ -8,6 +8,10 @@ date: 2025-06-06 13:00:00 +0100
 
 ### Ballinderreen
 
+### Galway
+
+### TV
+
 ### Streaming
 
 ---
@@ -20,9 +24,13 @@ date: 2025-06-06 13:00:00 +0100
 
 ### TV
 
+### Streaming
+
 ---
 
 ## Sunday
+
+### Ballinderreen
 
 ### Galway
 
@@ -36,6 +44,8 @@ date: 2025-06-06 13:00:00 +0100
 ## Monday
 
 ### Ballinderreen
+
+### Galway
 
 ### TV
 
