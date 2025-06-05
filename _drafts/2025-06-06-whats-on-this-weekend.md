@@ -38,6 +38,8 @@ Venue: Cork Camogie Grounds, Castle Rd., Blackrock
 
 Time: 12:30pm
 
+[Buy tickets here](https://www.universe.com/events/u23-a-championship-cork-v-galway-tickets-7PTG6H)
+
 ### TV
 
 #### 3pm
@@ -117,6 +119,8 @@ Kilkenny v Galway
 Venue: Croke Park
 
 Time: 4pm
+
+[Buy tickets here](https://am.ticketmaster.com/gaa/leinstershc2025)
 
 ### TV
 
