@@ -58,25 +58,25 @@ Limerick v Carnmore, Munster Hurling Final
 
 Kerry v Cavan, All-Ireland Minor Football Championship Quarter-finals
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=7M5QcGLYfys)*
 
 #### 1:45pm
 
 Tyrone v Cork, All-Ireland Minor Football Championship Quarter-finals
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=dJNGwU2_ZDg)*
 
 #### 2pm
 
 Galway v Tipperary, All-Ireland Senior Ladies Football Championship
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=vefq7n7QIl4)*
 
 #### 2pm
 
 Kerry v Mayo, All-Ireland Senior Ladies Football Championship
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=Uvbao483JpE)*
 
 #### 2pm
 
@@ -88,7 +88,7 @@ Offaly v New York, Tailteann Cup preliminary Quarter-finals
 
 Meath v Kildare, All-Ireland Minor Football Championship Level 2 Final
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=55PmDfcUENc)*
 
 #### 5pm
 
@@ -100,7 +100,7 @@ Westmeath v Laois, Tailteann Cup preliminary Quarter-finals
 
 Roscommon v Louth, All-Ireland Minor Football Championship Quarter-finals
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=YNRBJ7Pe9Kg)*
 
 ---
 
@@ -144,7 +144,7 @@ Galway v Kilkenny, Leinster Senior Hurling Final
 
 Offaly v Mayo, All-Ireland Minor Football Championship Quarter-finals
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=No7X8UG4ULU)*
 
 
 ---
