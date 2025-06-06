@@ -20,8 +20,6 @@ Time: 7:30pm
 
 ## Saturday
 
-### Ballinderreen
-
 ### Galway
 
 #### All-Ireland U23 Camogie Championship
