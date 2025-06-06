@@ -146,3 +146,4 @@ Offaly v Mayo, All-Ireland Minor Football Championship Quarter-finals
 
 ## Galway Teams
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbt41Ui7Q8va8NQ4VD2srr9g-NEHcUiA8jPvRV8XPu0ueSEDlQdwyWZmtxZO3q_TkAMhIlkSutE7IrKYRIY3U19viUg3haNMBn3Pu8zxIIXAv5YBcXIpuKtKnoX5tPcYLSRLCNw4FPg3u_rZKXuDW7vneV5LaNko7iCmpxKPKcStiFuP2tN-V-ZAXPDWU/s16000/Galway_Hurling_Team.jpg" />
