@@ -16,12 +16,6 @@ Venue: Carnmore
 
 Time: 7:30pm
 
-### Galway
-
-### TV
-
-### Streaming
-
 ---
 
 ## Saturday
@@ -108,8 +102,6 @@ Roscommon v Louth, All-Ireland Minor Football Championship Quarter-finals
 
 ## Sunday
 
-### Ballinderreen
-
 ### Galway
 
 #### Leinster Senior Hurling Final
@@ -149,19 +141,6 @@ Galway v Kilkenny, Leinster Senior Hurling Final
 Offaly v Mayo, All-Ireland Minor Football Championship Quarter-finals
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=No7X8UG4ULU)*
-
-
----
-
-## Monday
-
-### Ballinderreen
-
-### Galway
-
-### TV
-
-### Streaming
 
 ---
 
