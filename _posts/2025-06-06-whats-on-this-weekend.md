@@ -132,6 +132,12 @@ Galway v Kilkenny, Leinster Senior Hurling Final
 
 *RTÉ 2*
 
+#### 9:30pm
+
+The Sunday Game
+
+*RTÉ 2*
+
 ### Streaming
 
 #### 3pm
