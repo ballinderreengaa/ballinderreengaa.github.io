@@ -140,6 +140,12 @@ Offaly v Mayo, All-Ireland Minor Football Championship Quarter-finals
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=No7X8UG4ULU)*
 
+### Other
+
+#### Bake Sale
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_WO6PctF5uHOZwk3cFaR3SvWuogidcnYuvSvkWVwyr4adB9ecE7a6p6CttOM2hB5zD023Yc3rPMj8fDT_xrr5QWdNbW4z_6Q3JrivaXyjBK-lXMFazjJZ4b795nRLAnn-Jf8AhVfopAkuAsKiYbu6jAMb9xhLCYN_szMAtQEXapCjLjugOZ7axLdhHNE/s16000/Bake_Sale_2.jpg" />
+
 ---
 
 ## Galway Teams
