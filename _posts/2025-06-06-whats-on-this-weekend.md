@@ -48,25 +48,25 @@ Limerick v Carnmore, Munster Hurling Final
 
 ### Streaming
 
-#### 12pm
+#### 12pm
 
 Kerry v Cavan, All-Ireland Minor Football Championship Quarter-finals
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=7M5QcGLYfys)*
 
-#### 1:45pm
+#### 1:45pm
 
 Tyrone v Cork, All-Ireland Minor Football Championship Quarter-finals
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=dJNGwU2_ZDg)*
 
-#### 2pm
+#### 2pm
 
 Galway v Tipperary, All-Ireland Senior Ladies Football Championship
 
 *[Spórt TG4 YouTube](https://www.youtube.com/watch?v=vefq7n7QIl4)*
 
-#### 2pm
+#### 2pm
 
 Kerry v Mayo, All-Ireland Senior Ladies Football Championship
 
@@ -78,7 +78,7 @@ Offaly v New York, Tailteann Cup preliminary Quarter-finals
 
 *GAA+*
 
-#### 4:15pm
+#### 4:15pm
 
 Meath v Kildare, All-Ireland Minor Football Championship Level 2 Final
 
@@ -90,7 +90,7 @@ Westmeath v Laois, Tailteann Cup preliminary Quarter-finals
 
 *GAA+*
 
-#### 7pm
+#### 7pm
 
 Roscommon v Louth, All-Ireland Minor Football Championship Quarter-finals
 
@@ -140,7 +140,7 @@ The Sunday Game
 
 ### Streaming
 
-#### 3pm
+#### 3pm
 
 Offaly v Mayo, All-Ireland Minor Football Championship Quarter-finals
 
