@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lotto Results for 07/06/2025"
-date:   2025-06-0808:00:00 +0100
+date:   2025-06-08 08:00:00 +0100
 categories: [Lotto Results]
 ---
 
