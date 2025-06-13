@@ -8,11 +8,25 @@ date: 2025-06-13 13:00:00 +0100
 
 ### Ballinderreen
 
+#### Senior Hurling Challenge Match
+
+Venue: Ballinderreen
+
+Time: 7pm
+
 ---
 
 ## Saturday
 
 ### Galway
+
+#### All-Ireland Senior Football Championship
+
+Galway v Armagh
+
+Venue: Breffni Park, Cavan
+
+Time: 6:30pm
 
 ### TV
 
@@ -34,6 +48,12 @@ Kilkenny v Waterford, All-Ireland Minor Hurling Championship Semi-Final
 
 *TG4*
 
+#### 9:30pm
+
+The Saturday Game
+
+*RTÉ 2*
+
 ### Streaming
 
 #### 1:45pm
@@ -46,13 +66,13 @@ Laois v Tipperary, All-Ireland Senior Hurling Championship Preliminary Quarter-F
 
 Donegal v Galway, All-Ireland Ladies Football Championship
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=9zaLRMk9tKU)*
 
 #### 2pm
 
 Dublin v Leitrim, All-Ireland Ladies Football Championship
 
-*Spórt TG4 YouTube*
+*[Spórt TG4 YouTube](https://www.youtube.com/watch?v=6GQSnLgfM9E)*
 
 #### 4:15pm
 
@@ -98,6 +118,12 @@ Donegal v Mayo, All-Ireland Senior Football Championship
 
 *RTÉ 2*
 
+#### 9:30pm
+
+The Sunday Game
+
+*RTÉ 2*
+
 ### Streaming
 
 #### 1:15pm
@@ -113,6 +139,10 @@ Limerick v Wexford, Tailteann Cup Quarter-Finals
 *GAA+*
 
 ### Other
+
+#### Agri Aware Open Farm
+
+
 
 
 ---
