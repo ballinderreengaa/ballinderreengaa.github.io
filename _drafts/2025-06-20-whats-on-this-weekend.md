@@ -16,6 +16,22 @@ date: 2025-06-13 12:45:00 +0100
 
 ### Galway
 
+#### All-Ireland U23 Camogie Championship
+
+Kilkenny v Galway
+
+Venue: Nowlan Park, Kilkenny
+
+Time: 2pm
+
+#### All-Ireland Senior Camogie Championship
+
+Kilkenny v Galway
+
+Venue: Nowlan Park, Kilkenny
+
+Time: 4pm
+
 #### All-Ireland SHC Quarter-Final
 
 Galway v Tipperary
