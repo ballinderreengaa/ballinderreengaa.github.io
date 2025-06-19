@@ -56,6 +56,18 @@ Galway v Tipperary, All-Ireland SHC Quarter-Final
 
 ### Streaming
 
+#### 2pm
+
+Leitrim v Waterford, All-Ireland Ladies Senior Football Championship
+
+[*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=Jlp8rGLNX2I)
+
+#### 2pm
+
+Armagh v Kildare, All-Ireland Ladies Senior Football Championship
+
+[*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=FrmDxGpSy6k)
+
 #### 3:30pm
 
 Kerry v Cavan, All-Ireland SFC preliminary quarter-final
