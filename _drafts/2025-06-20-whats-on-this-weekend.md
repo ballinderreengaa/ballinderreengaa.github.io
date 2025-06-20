@@ -4,14 +4,6 @@ title:  "What's On This Weekend"
 date: 2025-06-13 12:45:00 +0100
 ---
 
-## Friday
-
-### Ballinderreen
-
-
-
----
-
 ## Saturday
 
 ### Galway
@@ -42,6 +34,18 @@ Time: 6:15pm
 
 ### TV
 
+#### 1pm
+
+Tipperary v Donegal, All-Ireland Ladies SFC
+
+*TG4*
+
+#### 3pm
+
+Mayo v Cork, All-Ireland Ladies SFC
+
+*TG4*
+
 #### 4pm
 
 Limerick v Dublin, All-Ireland SHC Quarter-Final
@@ -51,6 +55,12 @@ Limerick v Dublin, All-Ireland SHC Quarter-Final
 #### 6:15pm
 
 Galway v Tipperary, All-Ireland SHC Quarter-Final
+
+*RTÉ 2*
+
+#### 9:30pm
+
+The Saturday Game
 
 *RTÉ 2*
 
@@ -117,6 +127,12 @@ Kerry v Mayo, All-Ireland MFC semi-finals
 #### 4pm
 
 Kildare v Fermanagh, Tailteann Cup Semi-Final
+
+*RTÉ 2*
+
+#### 9:30pm
+
+The Sunday Game
 
 *RTÉ 2*
 
