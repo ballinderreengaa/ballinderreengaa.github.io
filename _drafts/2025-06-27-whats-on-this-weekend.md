@@ -1,7 +1,7 @@
 ---
 layout: whats-on-this-weekend
 title:  "What's On This Weekend"
-date: 2025-06-13 12:45:00 +0100
+date: 2025-06-27 12:45:00 +0100
 ---
 
 ## Friday
@@ -15,14 +15,6 @@ Liam Mellows v Ballinderreen
 Venue: Ballyloughane
 
 Time: 7:30pm
-
-### Galway
-
-### TV
-
-### Streaming
-
-### Other
 
 ---
 
@@ -44,7 +36,7 @@ Time: 6pm
 
 Galway v Waterford
 
-Venue: TBC
+Venue: Kenny Park, Athenry
 
 Time: 1pm
 
@@ -52,7 +44,7 @@ Time: 1pm
 
 Galway v Kilkenny
 
-Venue: TBC
+Venue: Kenny Park, Athenry
 
 Time: 3pm
 
@@ -63,6 +55,12 @@ Time: 3pm
 Clare v Waterford, All-Ireland Minor Hurling Final
 
 *TG4*
+
+#### 9:45pm
+
+The Saturday Game
+
+*RTÉ 2*
 
 ### Streaming
 
@@ -78,13 +76,9 @@ Dublin v Tyrone, All-Ireland Senior Football Championship Quarter-Final
 
 *GAA+*
 
-### Other
-
 ---
 
 ## Sunday
-
-### Ballinderreen
 
 ### Galway
 
@@ -110,44 +104,12 @@ Kerry v Armagh, All-Ireland Senior Football Championship Quarter-Final
 
 *RTÉ 2*
 
-### Streaming
+#### 10:15pm
 
-### Other
+The Sunday Game
 
----
-
-## Monday
-
-### Ballinderreen
-
-## Galway
-
-### TV
-
-### Streaming
-
-### Other
+*RTÉ 2*
 
 ---
 
 ## Galway Teams
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
