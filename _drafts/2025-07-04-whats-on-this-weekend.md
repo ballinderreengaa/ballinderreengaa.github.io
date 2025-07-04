@@ -20,8 +20,6 @@ Time: 6:30pm
 
 ## Saturday
 
-### Ballinderreen
-
 ### Galway
 
 #### All-Ireland Senior Ladies Football Championship Quarter-Final
@@ -64,17 +62,11 @@ Kerry v Kildare, All-Ireland Senior Ladies Football Championship Quarter-Final
 
 *TG4*
 
-### Streaming
 
-### Other
 
 ---
 
 ## Sunday
-
-### Ballinderreen
-
-### Galway
 
 ### TV
 
@@ -102,10 +94,6 @@ Meath v Tipperary, All-Ireland Senior Ladies Football Championship Quarter-Final
 
 *TG4*
 
-### Streaming
-
-### Other
-
 ---
 
 ## Monday
@@ -119,7 +107,3 @@ Ballinderreen v Kilnadeema-Leitrim
 Venue: Ballinderreen
 
 Time: 7:30pm
-
----
-
-## Galway Teams
