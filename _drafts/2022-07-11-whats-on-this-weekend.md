@@ -16,13 +16,13 @@ date: 2025-07-11 12:45:00 +0100
 
 #### 5pm
 
-New York v Warwickshire, All-Ireland Junior Football Semi-Final
+New York v Warwickshire, All-Ireland Junior Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=LJye5qmHiN4)
 
 #### 7pm
 
-Kilkenny v London, All-Ireland Junior Football Semi-Final
+Kilkenny v London, All-Ireland Junior Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=vGTR1zxD31o)
 
@@ -62,7 +62,7 @@ Kildare v Limerick, Tailteann Cup Final
 
 #### 5pm
 
-Kerry v Tyrone, All-Ireland Senior Football Semi-Final
+Kerry v Tyrone, All-Ireland Senior Football Championship Semi-Final
 
 *RTÉ 2*
 
@@ -70,7 +70,7 @@ Kerry v Tyrone, All-Ireland Senior Football Semi-Final
 
 #### 2pm
 
-Donegal v Leitrim, All-Ireland Senior Ladies Football Relegation Play-Off
+Donegal v Leitrim, All-Ireland Senior Ladies Football Championship Relegation Play-Off
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=qO_Aw52Wr5o)
 
@@ -96,7 +96,7 @@ The Tumbling Paddies
 
 #### 4pm
 
-Meath v Donegal, All-Ireland Senior Football Semi-Final
+Meath v Donegal, All-Ireland Senior Football Championship Semi-Final
 
 *RTÉ 2*
 
@@ -104,31 +104,31 @@ Meath v Donegal, All-Ireland Senior Football Semi-Final
 
 #### 1:30pm
 
-New York/Warwickshire v Kilkenny/London, All-Ireland Junior Football Final
+New York/Warwickshire v Kilkenny/London, All-Ireland Junior Football Championship Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=X_eeLCpYIz0)
 
 #### 2pm
 
-Laois v Monaghan, All-Ireland Intermediate Ladies Football Semi-Final
+Laois v Monaghan, All-Ireland Intermediate Ladies Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=jZ8vKUGaQn4)
 
 #### 2pm
 
-Westmeath v Tyrone, All-Ireland Intermediate Ladies Football Semi-Final
+Westmeath v Tyrone, All-Ireland Intermediate Ladies Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=WHWGWtFAy0E)
 
 #### 2pm
 
-Louth v Longford, All-Ireland Junior Ladies Football Semi-Final
+Louth v Longford, All-Ireland Junior Ladies Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=iUHA-rZXEBE)
 
 #### 4pm
 
-Antrim v Sligo, All-Ireland Junior Ladies Football Semi-Final
+Antrim v Sligo, All-Ireland Junior Ladies Football Championship Semi-Final
 
 [*Spórt TG4 YouTube*](https://www.youtube.com/watch?v=f3n0fSEPPII)
 
