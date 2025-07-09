@@ -100,6 +100,12 @@ Meath v Donegal, All-Ireland Senior Football Championship Semi-Final
 
 *RTÉ 2*
 
+#### 10:15pm
+
+The Sunday Game
+
+*RTÉ 2*
+
 ### Streaming
 
 #### 1:30pm
