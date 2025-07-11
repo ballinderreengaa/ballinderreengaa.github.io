@@ -6,12 +6,6 @@ date: 2025-07-11 12:45:00 +0100
 
 ## Friday
 
-### Ballinderreen
-
-### Galway
-
-### TV
-
 ### Streaming
 
 #### 5pm
@@ -41,6 +35,14 @@ Mundy & Paddy Casey
 ## Saturday
 
 ### Ballinderreen
+
+#### Junior A Championship
+
+Ballinderreen v Salthill-Knocknacarra
+
+Venue: Ballinderreen
+
+Time: 12pm
 
 ### Galway
 
@@ -87,10 +89,6 @@ The Tumbling Paddies
 ---
 
 ## Sunday
-
-### Ballinderreen
-
-### Galway
 
 ### TV
 
@@ -151,7 +149,3 @@ Olivia Douglas
 #### 7pm
 
 Derek Ryan
-
----
-
-## Galway Teams
