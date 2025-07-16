@@ -24,13 +24,13 @@ date: 2025-06-18 12:45:00 +0100
 
 ### Galway
 
-#### Competition
+#### All-Ireland senior ladies football semi-final
 
-Home Team v Away Team
+Dublin v Galway
 
-Venue: 
+Venue: Tullamore
 
-Time: 
+Time: 7:30pm
 
 ### TV
 
