@@ -50,7 +50,7 @@ Venue: Ballinderreen
 
 Time: 10am
 
-#### U12 Hurling Roinn 3
+#### U17 B1 Hurling Championship
 
 Oranmore-Maree v Ballinderreen
 
