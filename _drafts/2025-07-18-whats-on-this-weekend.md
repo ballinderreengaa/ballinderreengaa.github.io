@@ -4,27 +4,11 @@ title:  "What's On This Weekend"
 date: 2025-06-18 12:45:00 +0100
 ---
 
-## Friday
-
-### Ballinderreen
-
-### Galway
-
-### TV
-
-### Streaming
-
-### Other
-
----
-
 ## Saturday
 
-### Ballinderreen
-
 ### Galway
 
-#### All-Ireland senior ladies football semi-final
+#### All-Ireland Senior Ladies Football Semi-Final
 
 Dublin v Galway
 
@@ -46,9 +30,11 @@ Dublin v Galway, All-Ireland senior ladies football semi-final
 
 *TG4*
 
-### Streaming
+#### 9:30pm
 
-### Other
+Up for the Match
+
+*RTÉ 1*
 
 ---
 
@@ -56,7 +42,21 @@ Dublin v Galway, All-Ireland senior ladies football semi-final
 
 ### Ballinderreen
 
-### Galway
+#### U12 Hurling Roinn 3
+
+Ballinderreen v Kilconieron
+
+Venue: Ballinderreen
+
+Time: 10am
+
+#### U12 Hurling Roinn 3
+
+Oranmore-Maree v Ballinderreen
+
+Venue: Oranmore-Maree
+
+Time: 11am
 
 ### TV
 
@@ -66,53 +66,8 @@ Cork v Tipperary, All-Ireland Senior Hurling Final
 
 *RTÉ 2*
 
-### Streaming
+#### 9:30pm
 
-### Other
+The Sunday Game
 
----
-
-## Monday
-
-### Ballinderreen
-
-#### U14 Camogie Championship
-
-Ahascragh/Caltra v Ballinderreen
-
-Venue: Ahascragh
-
-Time: 7:30pm
-
-#### U13 Hurling Championship Final
-
-Ballinderreen v Kilconieron
-
-Venue: Duggan Park, Ballinasloe
-
-Time: 7:30pm
-
-
----
-
-## Galway Teams
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
+*RTÉ 2*
