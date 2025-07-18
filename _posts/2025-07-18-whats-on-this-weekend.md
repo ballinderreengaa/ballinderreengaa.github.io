@@ -1,7 +1,7 @@
 ---
 layout: whats-on-this-weekend
 title:  "What's On This Weekend"
-date: 2025-06-18 12:45:00 +0100
+date: 2025-07-18 12:45:00 +0100
 ---
 
 ## Saturday
