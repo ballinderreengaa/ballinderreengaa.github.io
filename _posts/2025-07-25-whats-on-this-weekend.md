@@ -50,14 +50,6 @@ Cork v Dublin, All-Ireland Minor Ladies Football Final
 
 ### Ballinderreen
 
-#### Senior Hurling Challenge Match
-
-St Thomas v Ballinderreen
-
-Venue: St Thomas
-
-Time: 7pm
-
 #### Minor Camogie Semi-Final
 
 Rahoon-Newcastle v Ballinderreen
