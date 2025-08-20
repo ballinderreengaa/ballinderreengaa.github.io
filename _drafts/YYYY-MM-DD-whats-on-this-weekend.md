@@ -50,23 +50,6 @@ date: 2025-06-13 12:45:00 +0100
 
 ### Ballinderreen
 
-#### U14 Camogie Championship
-
-Ahascragh/Caltra v Ballinderreen
-
-Venue: Ahascragh
-
-Time: 7:30pm
-
-#### U13 Hurling Championship Final
-
-Ballinderreen v Kilconieron
-
-Venue: Duggan Park, Ballinasloe
-
-Time: 7:30pm
-
-
 ---
 
 ## Galway Teams
