@@ -30,6 +30,8 @@ Venue: Enniscorthy, Co. Wexford
 
 Time: 2pm
 
+### Streaming
+
 #### 2pm
 
 Galway v Limerick, Gaelic Masters Challenge Cup Final
@@ -62,7 +64,7 @@ St James v Maigh Cuilinn, Galway SFC
 
 ### Other
 
-#### Galway Master Hurling
+#### Galway Masters Hurling
 
 Best of luck to Conor Crotty, Kevin Conneely and the Galway Masters hurling team in the Gaelic Masters Challenge Cup Final against Limerick tomorrow.
 
