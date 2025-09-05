@@ -94,7 +94,7 @@ St Thomas v Athenry, Galway SFC
 
 [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5047501)
 
-##### 6pm 
+#### 6pm 
 
 Loughrea v Craughwell, Galway SFC 
 
