@@ -64,7 +64,7 @@ Venue: Loughrea
 
 Time: 1:30pm
 
-Tickets can be purchased at the following link: https://www.universe.com/events/forvis-mazars-senior-b-hc-group-1-ballinderreen-v-tynagh-abbey-duniry-tickets-NQGDX7
+Tickets can be purchased at the following link: [https://www.universe.com/events/forvis-mazars-senior-b-hc-group-1-ballinderreen-v-tynagh-abbey-duniry-tickets-NQGDX7](https://www.universe.com/events/forvis-mazars-senior-b-hc-group-1-ballinderreen-v-tynagh-abbey-duniry-tickets-NQGDX7)
 
 ### TV
 
@@ -114,4 +114,4 @@ Venue: Duggan Park, Ballinasloe
 
 Time: 6:15pm
 
-Tickets can be purchased at the following link: https://www.universe.com/events/ocean-hygiene-u14-roinn-b1-2025-final-ballinderreen-v-padraig-pearses-tickets-Z5QS3Y
+Tickets can be purchased at the following link: [https://www.universe.com/events/ocean-hygiene-u14-roinn-b1-2025-final-ballinderreen-v-padraig-pearses-tickets-Z5QS3Y](https://www.universe.com/events/ocean-hygiene-u14-roinn-b1-2025-final-ballinderreen-v-padraig-pearses-tickets-Z5QS3Y)
