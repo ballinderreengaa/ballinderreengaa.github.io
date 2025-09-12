@@ -16,17 +16,23 @@ Venue: Ballinderreen
 
 Time: 6:30pm
 
-### Streaming
-
-### Other
-
 ---
 
 ## Saturday
 
 ### Streaming
 
+#### 5pm
+
+Oughterard v Claregalway, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5049994)
+
 ### Other
+
+#### Gort Vibes Cinema Club 
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl8RCCnx0Cbfh7cxRo1oYbtqB3LNmgCgsJeD4IbuvMBJ6SJyHmQH1aAJ__OVWCHtSGzin8TfIHBQ4OZTGi7kEvRCLLXLXzLbQZlb4QKFMDsFDPWmLsBBt1ARBdpiasVTYJhKtguCDdGBm038kgFKkNQrVXqqllguHoN0ar8TE4qSLXGdYMJRJVtS_ZpgF_/s16000/gort-vibes.jpg" />
 
 ---
 
@@ -68,7 +74,29 @@ Dr Crokes v Na Gaeil, Kerry SFC Final
 
 ### Streaming
 
-### Other
+#### 2:45pm
+
+Kilconly v Caherlistrane, Galway IFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5049993)
+
+#### 3pm
+
+Dunmore MacHales v Naomh Anna, Leitir Móir, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5049990)
+
+#### 4:30pm
+
+Milltown v St. James, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5049989)
+
+#### 4:45pm
+
+Killannin v Mountbellew Moylough, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5049988)
 
 ---
 
@@ -83,23 +111,3 @@ Ballinderreen V St Thomas'
 Venue: Ballinderreen
 
 Time: 6:30pm
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
