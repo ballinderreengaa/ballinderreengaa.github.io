@@ -8,9 +8,13 @@ date: 2025-09-12 12:45:00 +0100
 
 ### Ballinderreen
 
-### Galway
+#### U15 C1 Camogie Championship
 
-### TV
+Ballinderreen 2 v Athenry 2
+
+Venue: Ballinderreen
+
+Time: 6:30pm
 
 ### Streaming
 
@@ -19,12 +23,6 @@ date: 2025-09-12 12:45:00 +0100
 ---
 
 ## Saturday
-
-### Ballinderreen
-
-### Galway
-
-### TV
 
 ### Streaming
 
@@ -36,9 +34,37 @@ date: 2025-09-12 12:45:00 +0100
 
 ### Ballinderreen
 
+#### U12 Hurling Roinn 3
+
+Rahoon-Newcastle v Ballinderreen
+
+Venue: [Tonabrocky](https://www.google.com/maps?cid=12935932128073671351&source=mc)
+
+Time: 10am
+
+#### U17 B1 Hurling Championship Knockout
+
+Ballinderreen V Mícheál Breathnach
+
+Venue: Ballinderreen
+
+Time: 11am
+
 ### Galway
 
 ### TV
+
+#### 1:30pm
+
+Dunshaughlin v Wolfe Tones, Meath SFC
+
+*TG4*
+
+#### 3:30pm
+
+Dr Crokes v Na Gaeil, Kerry SFC Final
+
+*TG4*
 
 ### Streaming
 
@@ -50,9 +76,13 @@ date: 2025-09-12 12:45:00 +0100
 
 ### Ballinderreen
 
----
+#### U15 Camogie A1 Championship
 
-## Galway Teams
+Ballinderreen V St Thomas'
+
+Venue: Ballinderreen
+
+Time: 6:30pm
 
 ---
 
