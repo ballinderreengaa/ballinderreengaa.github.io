@@ -30,6 +30,13 @@ Time: 3pm
 
 Tickets: (https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4)[https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4]
 
+#### Junior A Camogie Championship
+
+Ballinderreen V Toureen
+
+Venue: Ballinderreen
+
+Time: 6.00pm
 
 ### TV
 
