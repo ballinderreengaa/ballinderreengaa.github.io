@@ -42,6 +42,18 @@ Time: 6.00pm
 
 ### Streaming
 
+#### 3pm
+
+Ballinderreen v Portumna, Galway SBHC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055948)
+
+#### 4:45pm
+
+Padraig Pearses v Liam Mellows, Galway SBHC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055947)
+
 ### Other
 
 #### Volunteer Appreciation Night
@@ -77,6 +89,18 @@ Castlegar v Sarsfields, Galway SHC
 *TG4*
 
 ### Streaming
+
+#### 1pm
+
+Athenry v Tommy Larkins, Galway SHC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055946)
+
+#### 3pm
+
+Loughrea v Cumann Iománaíochta Mhaigh Cuilinn , Galway SHC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055944)
 
 ### Other
 
