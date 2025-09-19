@@ -18,7 +18,7 @@ Venue: Kenny Park, Athenry
 
 Time: 3pm
 
-Tickets: (https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4)[https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4]
+Tickets: [https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4](https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4)
 
 This game will be streamed live on [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055948)
 
