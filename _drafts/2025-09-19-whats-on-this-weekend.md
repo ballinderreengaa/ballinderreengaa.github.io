@@ -4,23 +4,13 @@ title:  "What's On This Weekend"
 date: 2025-06-13 12:45:00 +0100
 ---
 
-## Friday
-
-### Ballinderreen
-
-### TV
-
-### Streaming
-
-### Other
-
----
-
 ## Saturday
 
 ### Ballinderreen
 
 #### Senior B Hurling Championship Knockout
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/s1600/asset-preview-l2YeWIn86sxHBd1H.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/w640-h360/asset-preview-l2YeWIn86sxHBd1H.png" width="640" /></a>
 
 Ballinderreen v Portumna
 
@@ -29,6 +19,8 @@ Venue: Kenny Park, Athenry
 Time: 3pm
 
 Tickets: (https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4)[https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4]
+
+This game will be streamed live on [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055948)
 
 #### Junior A Camogie Championship
 
@@ -70,7 +62,7 @@ Padraig Pearses v Liam Mellows, Galway SBHC
 
 Salthill Knocknacarra v Ballinderreen
 
-Venue: Salthill Knocknacarra
+Venue: [Salthill Knocknacarra](https://www.google.com/maps?cid=8950135562625538441&source=mc)
 
 Time: 11am
 
@@ -101,31 +93,3 @@ Athenry v Tommy Larkins, Galway SHC
 Loughrea v Cumann Iománaíochta Mhaigh Cuilinn , Galway SHC
 
 [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055944)
-
-### Other
-
----
-
-## Monday
-
-### Ballinderreen
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
