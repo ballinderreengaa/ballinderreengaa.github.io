@@ -20,7 +20,7 @@ Time: 3pm
 
 Tickets: [https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4](https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter-final-ballinderreen-v-portumna-tickets-XKSWQ4)
 
-This game will be streamed live on [Galway GAA TV](https://page.inplayer.com/galwaygaatv/item.html?id=5055948)
+This game will be streamed live on [Galway GAA TV](https://page.inplayer.com/galwaygaatv/item.html?id=5055948).
 
 Single match pass access is €11.99. The weekend pass is €34.99. The season pass for the hurling championship is €199. The season pass for the hurling and the football championship is €250.
 
