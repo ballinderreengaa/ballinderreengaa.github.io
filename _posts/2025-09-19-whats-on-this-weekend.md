@@ -8,7 +8,7 @@ date: 2025-09-19 12:30:00 +0100
 
 ### Ballinderreen
 
-#### Senior B Hurling Championship Knockout
+#### Senior B Hurling Championship Quarter Final
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/s1600/asset-preview-l2YeWIn86sxHBd1H.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/w640-h360/asset-preview-l2YeWIn86sxHBd1H.png" width="640" /></a>
 
@@ -60,7 +60,7 @@ Padraig Pearses v Liam Mellows, Galway SBHC
 
 ### Ballinderreen
 
-#### Junior F Hurling Championship Knockout
+#### Junior F Hurling Championship Quarter Final
 
 Salthill Knocknacarra v Ballinderreen
 
