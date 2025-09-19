@@ -4,6 +4,14 @@ title:  "What's On This Weekend"
 date: 2025-09-19 12:30:00 +0100
 ---
 
+## Friday
+
+### Culture Night
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWc7n8X6vwajY50U8I-xiG-rJWcalXp2T1GTCyZY6epHgzKxPGPJp2mcaJApSGC47DtDyxXWASXgRbAlqqRU1iUbo-Jq6CIbOWbi-4yDpP4DDSdyCUExTCrXqgr-HmMOklT82kFNhBrp6xvmbj-QnK-oPs20X17tFOvHW7KTsxT0b3ez29lpxS19eUz4vn/s1658/culture-night.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1658" data-original-width="1061" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWc7n8X6vwajY50U8I-xiG-rJWcalXp2T1GTCyZY6epHgzKxPGPJp2mcaJApSGC47DtDyxXWASXgRbAlqqRU1iUbo-Jq6CIbOWbi-4yDpP4DDSdyCUExTCrXqgr-HmMOklT82kFNhBrp6xvmbj-QnK-oPs20X17tFOvHW7KTsxT0b3ez29lpxS19eUz4vn/w410-h640/culture-night.jpg" width="410" /></a>
+
+---
+
 ## Saturday
 
 ### Ballinderreen
