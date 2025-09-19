@@ -10,7 +10,7 @@ date: 2025-09-19 12:30:00 +0100
 
 #### Senior B Hurling Championship Quarter Final
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/s1600/asset-preview-l2YeWIn86sxHBd1H.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdCy0ZKAcvWq46vrCJxOAx8FRubxRDz9ce7XnOzrsGTv7Hg6qzJF_lhX2jedXapM9f-geKP5nfdvtzluAL-QhehKnHgVCeKVYpGGu2cdOzQvLPN_MX86WXGALNKlQZoTdw0htzAVisB4kJsHBfdbISE_nd4L-UC5YIFLAemXCvpq_HrVA6crWWuNI9z_KC/w640-h360/asset-preview-l2YeWIn86sxHBd1H.png" width="640" /></a>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-l24mn1WuFmjJBl_RBZ6MIF7siudqj2rb1H4hIBN67nI7QzKnEkk7zn2z5QfWgq1vHNq9SwdASQcTq1GxEjRwkrqckAa8x16oTwxPcVOIAvzYdeQ-IVcMrYUMk0KLRHwhU5zBr6n4aAJ64j2hX2uJH2N8IaAkeEtvjX5K_LMcecKTFA78pGxJYhBADco5/s1600/ballinderreen-v-portumna.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-l24mn1WuFmjJBl_RBZ6MIF7siudqj2rb1H4hIBN67nI7QzKnEkk7zn2z5QfWgq1vHNq9SwdASQcTq1GxEjRwkrqckAa8x16oTwxPcVOIAvzYdeQ-IVcMrYUMk0KLRHwhU5zBr6n4aAJ64j2hX2uJH2N8IaAkeEtvjX5K_LMcecKTFA78pGxJYhBADco5/w640-h360/ballinderreen-v-portumna.png" width="640" /></a>
 
 Ballinderreen v Portumna
 
