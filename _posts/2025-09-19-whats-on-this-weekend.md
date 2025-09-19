@@ -22,6 +22,8 @@ Tickets: [https://www.universe.com/events/forvis-mazars-senior-b-hurling-quarter
 
 This game will be streamed live on [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055948)
 
+Single match pass access is €11.99. The weekend pass is €34.99. The season pass for the hurling championship is €199. The season pass for the hurling and the football championship is €250.
+
 #### Junior A Camogie Championship
 
 Ballinderreen V Toureen
