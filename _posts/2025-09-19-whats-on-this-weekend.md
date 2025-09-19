@@ -92,6 +92,6 @@ Athenry v Tommy Larkins, Galway SHC
 
 #### 3pm
 
-Loughrea v Cumann Iománaíochta Mhaigh Cuilinn , Galway SHC
+Loughrea v Cumann Iománaíochta Mhaigh Cuilinn, Galway SHC
 
 [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5055944)
