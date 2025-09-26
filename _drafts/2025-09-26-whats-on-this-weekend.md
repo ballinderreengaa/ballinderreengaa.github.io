@@ -18,7 +18,17 @@ Time: 3pm
 
 ### Streaming
 
-### Other
+#### 3:15pm
+
+CLG Oileáin Árann v Caltra, Galway IFC
+
+[*Galway GAA TV*](http://page.inplayer.com/galwaygaatv/item.html?id=5057286)
+
+#### 5pm
+
+Maigh Cuilinn v Oughterard, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5057285)
 
 ---
 
@@ -50,24 +60,20 @@ Slaughtneil v Lavey, Derry SHC
 
 ### Streaming
 
-### Other
+#### 3pm
 
----
+Corofin v Dunmore MacHales, Galway SFC
 
-## Game
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5057284)
 
-#### Competition
+#### 4:15pm
 
-Home Team v Away Team
+Tuam Stars v Killannin, Galway SFC
 
-Venue: 
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5057283)
 
-Time: 
+#### 4:30pm
 
-## TV/Streaming
+Salthill Knocknacarra v St James, Galway SFC
 
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5057282)
