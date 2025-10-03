@@ -26,7 +26,7 @@ Oranmore Maree v Turloughmore, Galway SHC
 
 ### Ballinderreen
 
-#### Galway Senior B Hurling Championship Semi-Final
+#### Senior B Hurling Championship Semi-Final
 
 Ballindereen v Ahascragh Fohenagh
 
