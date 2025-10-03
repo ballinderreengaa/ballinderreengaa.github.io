@@ -94,9 +94,9 @@ Clarinbridge v Loughrea, Galway SHC
 
 ### Phone Numbers
 
-Emergency Services: 999 or 112
-Galway City Council: 091 536 400
-Galway County Council: 091 509 000
-ESB Networks: 1850 372 999
-Gas Networks Ireland: 1850 205 050
-Irish Water: 1850 278 278
+* Emergency Services: 999 or 112
+* Galway City Council: 091 536 400
+* Galway County Council: 091 509 000
+* ESB Networks: 1850 372 999
+* Gas Networks Ireland: 1850 205 050
+* Irish Water: 1850 278 278
