@@ -6,23 +6,17 @@ date: 2025-10-10 12:45:00 +0100
 
 ## Friday
 
-### Ballinderreen
+### Table Quiz
 
-### Galway
+Table quiz fundraiser for the Under-13 and U14 county finalists will take place on  Friday, 10th October, in Jordan's Bar at 8:30pm.
 
-### TV
+€10 per person including raffle. 
 
-### Streaming
-
-### Other
+Spot prizes are welcome.
 
 ---
 
 ## Saturday
-
-### Ballinderreen
-
-### Galway
 
 ### TV
 
@@ -77,33 +71,3 @@ Gaoth Dobhair v Naomh Conaill, Donegal SFC
 ### Streaming
 
 ### Other
-
----
-
-## Monday
-
-### Ballinderreen
-
----
-
-## Galway Teams
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
