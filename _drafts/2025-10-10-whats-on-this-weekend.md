@@ -28,7 +28,25 @@ Loughmore Castleiney v Holycross Ballycahill, Tipperary SHC
 
 ### Streaming
 
+#### 7:30pm
+
+Corofin v Salthill Knocknacarra, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059292)
+
+#### 7:45pm
+
+Maigh Cuilinn v Tuam Stars, Galway SFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059293)
+
 ### Other
+
+#### Family Fun Afternoon
+
+Kilcolgan Community Development have organized a family fun afternoon from 12 to 4pm in Kilcolgan. There will be facepainting, music and a crepe van as well as an exhibition of models of the village created by Scoil Mhuire pupils for the Architecture at the Edge Festival.
+
+Draft plans and drawings for the Kilcolgan Village Development Plan will be on display and the Architects Project Team will be avaioable to take feedback.
 
 ---
 
@@ -70,4 +88,26 @@ Gaoth Dobhair v Naomh Conaill, Donegal SFC
 
 ### Streaming
 
-### Other
+#### 12pm
+
+Gort v Michael Cusacks, Galway U17B HC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059291)
+
+#### 2pm
+
+St Mary's Athenry v Oranmore Maree, Galway U17A HC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059290)
+
+#### 2:15pm
+
+Caltra v Corofin, Galway IFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059289)
+
+#### 4pm
+
+An Spidéal v St Brendans, Galway IFC
+
+[*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5059288)
