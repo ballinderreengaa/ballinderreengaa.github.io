@@ -10,6 +10,12 @@ date: 2025-10-17 12:45:00 +0100
 
 #### Table Quiz
 
+Fundraiser table quiz for the Junior F county finalists tonight in Jordan's Bar at 8:30pm.
+
+Entry is €10 per person.
+
+There will be a raffle on the night. Spot prizes are welcome.
+
 ---
 
 ## Saturday
