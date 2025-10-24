@@ -58,15 +58,9 @@ Maigh Cuilinn v Salthill Knocknacarra, Galway SFC Final
 
 [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5064033)
 
-### Other
-
 ---
 
 ## Sunday
-
-### Ballinderreen
-
-### Galway
 
 ### TV
 
@@ -107,25 +101,3 @@ Caltra v An Spidéal, Galway Intermediate Football Championship Final
 Sarsfields v Athenry, Galway Camogie Championship A Final
 
 [*Galway GAA TV*](https://page.inplayer.com/galwaygaatv/item.html?id=5063980)
-
-### Other
-
----
-
-## Game
-
-#### Competition
-
-Home Team v Away Team
-
-Venue: 
-
-Time: 
-
-## TV/Streaming
-
-#### Time
-
-Team A v Team B, Competition
-
-*Channel/Service*
