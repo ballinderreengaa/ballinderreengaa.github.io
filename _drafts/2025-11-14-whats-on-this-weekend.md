@@ -4,20 +4,6 @@ title:  "What's On This Weekend"
 date: 2025-11-14 12:45:00 +0100
 ---
 
-## Friday
-
-### Ballinderreen
-
-### Galway
-
-### TV
-
-### Streaming
-
-### Other
-
----
-
 ## Saturday
 
 ### TV
@@ -27,10 +13,6 @@ date: 2025-11-14 12:45:00 +0100
 Athy (Kildare) v Summerhill (Meath), Leinster Club SFC
 
 *TG4*
-
-### Streaming
-
-### Other
 
 ---
 
@@ -57,5 +39,3 @@ Ballygunner (Waterford) v Sarsfields (Cork), Munster Club SHC
 Éire Óg Ennis (Clare) v Loughmore-Castleiney (Tipperary), Munster Club SHC (Live)
 
 *TG4 Player/App*
-
-### Other
