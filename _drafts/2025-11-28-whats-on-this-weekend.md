@@ -37,3 +37,11 @@ Moycullen (Galway) v St Brigid’s (Roscommon), Connacht SFC Final
 Ballygunner (Waterford) v Éire Óg Ennis (Clare), Munster SHC Final
 
 *TG4*
+
+### Streaming
+
+#### 4pm
+
+Scotstown (Monaghan) v Newbridge (Derry), Ulster SFC
+
+*TG4 Plaher*
