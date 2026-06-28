@@ -72,7 +72,6 @@
             at 4pm. The game will be preceded by Louth v Monaghan.</p>
         <p>Tickets will go on sale tomorrow at 12pm at the following link: <a href="https://am.ticketmaster.com/gaa/gaasfc2026">https://am.ticketmaster.com/gaa/gaasfc2026</a></p>
     </section>
-
     <section id="sea-to-summit-training-program">
         <h2>Sea to Summit Training Program</h2>
         <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZslMdqdpXmjj3yqcI5BDll5dY5_RJnCntw-c-c9nR3TEKuRlm4t4ttVrCtmqfZyIdbACyRh-6H2OL7HUa6oTU1FnuqV6HlQuxacjOZxOjhQqeauVyNNFSeelgKjiSoToSHSk_EpziDv83i1Pe45ybrlXpxQex6RZPiCxGKurgejkfQvWtLhOer15yTcQ9/s1536/keith-carr.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZslMdqdpXmjj3yqcI5BDll5dY5_RJnCntw-c-c9nR3TEKuRlm4t4ttVrCtmqfZyIdbACyRh-6H2OL7HUa6oTU1FnuqV6HlQuxacjOZxOjhQqeauVyNNFSeelgKjiSoToSHSk_EpziDv83i1Pe45ybrlXpxQex6RZPiCxGKurgejkfQvWtLhOer15yTcQ9/w426-h640/keith-carr.jpeg" width="426" /></a></div><br />
@@ -94,7 +93,6 @@
             face fee and accommodation for Friday and Saturday night)</p>
         <p>The closing date to express your interest is June 30th by contacting Keith at 089 216 3289 or <a href="mailto:keithocearra@yahoo.ie">keithocearra@yahoo.ie</a>.</p>
     </section>
-
     <section id="mass-intentions">
         <h2>Mass Intentions</h2>
         <div style="font-size: medium; font-weight: 400;"></div>
