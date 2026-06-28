@@ -122,6 +122,12 @@ date: 2026-06-30 22:45:00 +0100
             stories connected to our past. Join us in the Community Room on Wednesday July 1st to hear about what we
             have collected so far and help us explore what more we might discover.</blockquote>
     </section>
+    <section id="south-galway-athletics">
+        <h2>South Galway Athletics</h2>
+        <p>Congratulations to Orlaith Mannion who qualified for the U20 World Championships when breaking her personal best of 13.52 seconds which is the 7th fastest time by an Irish runner</p>
+        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1511588517117412%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+        <p>Congratulations to Ciarán Kelleher who won the All-Ireland U18 5,000m walk in a new personal best of 24:38.</p>
+    </section>
     <section id="galway-races">
         <h2>Galway Races</h2>
         <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw9TBy4tep9cyKPtYRhOHmNiSNyM-OQvS5NZEeprGA1H1-m4NQV_9clRgqtgY7bHEwOwbif4YyWB8RYZCLB1LYTad7rqOohXWw5UnhWttV8G56CjNIPTuqXSVyxxApopour7hwkSQxUKI03n1s8BA2w4_45KxVMv4HUs2sEZFZGJrbzuVT_vggGJVLfzT0/s396/2026%20Flyer%20.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="396" data-original-width="271" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw9TBy4tep9cyKPtYRhOHmNiSNyM-OQvS5NZEeprGA1H1-m4NQV_9clRgqtgY7bHEwOwbif4YyWB8RYZCLB1LYTad7rqOohXWw5UnhWttV8G56CjNIPTuqXSVyxxApopour7hwkSQxUKI03n1s8BA2w4_45KxVMv4HUs2sEZFZGJrbzuVT_vggGJVLfzT0/w438-h640/2026%20Flyer%20.jpg" width="438" /></a></div>
