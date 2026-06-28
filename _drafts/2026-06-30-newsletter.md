@@ -4,7 +4,7 @@ title:  "Newsletter 2026/06/30"
 date: 2026-06-30 22:45:00 +0100
 ---
 
-<article>
+<article class="newsletter-article">
     <section id="header-image">
         <div style="text-align: center;"><img alt="img" height="362" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWx6btx7knZIXx-Key5NdKrybW0d3DI1eeqni2pt9QV0FXSUeaCTe--ADwdXJHzipy_SXK09VjA5orlEhgFEv_RAk_kC2TESt55H720ZeLg0jzzZh1n8Pxqq7xbxGEAcFXiGx8Lw=w640-h362?key=X4nLg5bKc1oZJ2U79zU9AA" width="640" /></div>
     </section>
