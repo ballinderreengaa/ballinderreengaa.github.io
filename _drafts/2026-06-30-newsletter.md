@@ -59,7 +59,6 @@
         <p style="text-align: left;">Fill out this form to request your <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf--c7XREUgz4QS9XgJERHv_jPJyUusou9k1MZjNy1F8P25A/viewform?usp=publish-editor" target="_blank">Community Discounted Tickets</a>.</p>
         <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/pD8XMBlXWy4" width="320" youtube-src-id="pD8XMBlXWy4"></iframe></div>
     </section>
-
     <section id="intercounty-games">
         <h2>Intercounty Games</h2>
         <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeygx5snLyK7UWkIJelVZ-iURAHm9qXpw_qGIku58uqiFrfCHfw286LS7s10wkHGbcLw8jXQSNLRi8fDlP2JV1X9zHF2HayHDDwpRIbqIC86LRVFmVNd5C_Ga69ntLHNZqf1EXAvloAfw-iWO9qd5ePwNf_OHYxwLfJittkv-m6v_G66ecXJGk8Ncp3ep9/s1080/galway-camogie.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1080" data-original-width="1080" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeygx5snLyK7UWkIJelVZ-iURAHm9qXpw_qGIku58uqiFrfCHfw286LS7s10wkHGbcLw8jXQSNLRi8fDlP2JV1X9zHF2HayHDDwpRIbqIC86LRVFmVNd5C_Ga69ntLHNZqf1EXAvloAfw-iWO9qd5ePwNf_OHYxwLfJittkv-m6v_G66ecXJGk8Ncp3ep9/w640-h640/galway-camogie.jpeg" width="640" /></a></div><br />
