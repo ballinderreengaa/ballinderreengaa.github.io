@@ -145,12 +145,6 @@
             <p>👉 Enter online here:&nbsp;<a href="https://www.galwaylgfa.ie/draw/">https://www.galwaylgfa.ie/draw/</a>
             </p>
         </blockquote>
-        <p>&nbsp;</p>
-        <blockquote>
-            <p>Please like, share and support — together we can make 2026 a winning year for Galway LGFA!</p>
-            <p>First monthly draw will take place in July.</p>
-            <p>Exact date tbc.</p>
-        </blockquote>
     </section>
     <section id="footer-image">
         <div class="separator" style="clear: both; text-align: center;"><a href="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg?key=X4nLg5bKc1oZJ2U79zU9AA" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1448" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg=s16000?key=X4nLg5bKc1oZJ2U79zU9AA" /></a></div>
