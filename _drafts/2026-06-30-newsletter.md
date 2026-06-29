@@ -67,16 +67,12 @@ date: 2026-06-30 22:45:00 +0100
     </section>
     <section id="intercounty-games">
         <h2>Intercounty Games</h2>
-        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeygx5snLyK7UWkIJelVZ-iURAHm9qXpw_qGIku58uqiFrfCHfw286LS7s10wkHGbcLw8jXQSNLRi8fDlP2JV1X9zHF2HayHDDwpRIbqIC86LRVFmVNd5C_Ga69ntLHNZqf1EXAvloAfw-iWO9qd5ePwNf_OHYxwLfJittkv-m6v_G66ecXJGk8Ncp3ep9/s1080/galway-camogie.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1080" data-original-width="1080" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeygx5snLyK7UWkIJelVZ-iURAHm9qXpw_qGIku58uqiFrfCHfw286LS7s10wkHGbcLw8jXQSNLRi8fDlP2JV1X9zHF2HayHDDwpRIbqIC86LRVFmVNd5C_Ga69ntLHNZqf1EXAvloAfw-iWO9qd5ePwNf_OHYxwLfJittkv-m6v_G66ecXJGk8Ncp3ep9/w640-h640/galway-camogie.jpeg" width="640" /></a></div><br />
-        <p style="text-align: left;">The Galway camogie team will play Tipperary in their final group game in Kenny
-            Park, Athenry on Sunday, 28th of June at 3:30pm.</p>
-        <p style="text-align: left;">Tickets can be purchased from this link:&nbsp;<a href="https://www.universe.com/events/glen-dimplex-senior-camogie-championship-galway-v-tipperary-tickets-03H6NG">https://www.universe.com/events/glen-dimplex-senior-camogie-championship-galway-v-tipperary-tickets-03H6NG</a>
-        </p>
+        <p style="text-align: left;">The Galway camogie team qualified for the All-Ireland camogie semi-final after a <a href="https://galwaycamogie.ie/2026-senior-championship-round-3-galway-v-tipperary/">3-17 to 0-15 win over Tipperary</a> at the weekend.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/a30VGuQ0dl4?si=4OouZUH7hqywOsEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p style="text-align: left;"><br /></p>
-        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7LW0BdG96-3QmEpwf9JS1gm64MjGddjGGRYBV-2BObJMMv7hZOF7KYIGHGEBaNW0osJc3OK5Wn0uzNkQ6ahbxs6w4LyQN7ZofvcaEEgekDhCVEVonFnXjKv89gFQIGfsEEz40UcVgM-hc9d4On8y0eNeWW54oENddmuDNExKVd_ke3JtsdlToFNWE7lI7/s1080/Football%20QFs%20Sun%20-%20Square.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1080" data-original-width="1080" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7LW0BdG96-3QmEpwf9JS1gm64MjGddjGGRYBV-2BObJMMv7hZOF7KYIGHGEBaNW0osJc3OK5Wn0uzNkQ6ahbxs6w4LyQN7ZofvcaEEgekDhCVEVonFnXjKv89gFQIGfsEEz40UcVgM-hc9d4On8y0eNeWW54oENddmuDNExKVd_ke3JtsdlToFNWE7lI7/w640-h640/Football%20QFs%20Sun%20-%20Square.jpg" width="640" /></a></div><br />
-        <p style="text-align: left;">The Galway football team will play Dublin in Croke Park on Sunday, 28th of June
-            at 4pm. The game will be preceded by Louth v Monaghan.</p>
-        <p>Tickets will go on sale tomorrow at 12pm at the following link: <a href="https://am.ticketmaster.com/gaa/gaasfc2026">https://am.ticketmaster.com/gaa/gaasfc2026</a></p>
+        <p style="text-align: left;">The Galway football team <a href="https://www.gaa.ie/article/all-ireland-sfc-qf-dublin-finish-strongly">lost their quarter-final against Dublin 1-25 to 1-21</a>.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PDfara25hBM?si=69JompBGA72XjIEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p style="text-align: left;"><br /></p>
     </section>
     <section id="sea-to-summit-training-program">
         <h2>Sea to Summit Training Program</h2>
