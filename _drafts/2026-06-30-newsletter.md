@@ -101,12 +101,10 @@ date: 2026-06-30 22:45:00 +0100
     </section>
     <section id="mass-intentions">
         <h2>Mass Intentions</h2>
-        <div style="font-size: medium; font-weight: 400;"></div>
-        <p style="font-size: medium; font-weight: 400;">The 10:30am Mass in Ballinderreen on the 28th of June
+        <p>The 10:30am Mass in Ballinderreen on the 28th of June
             will
             be
             offered for</p>
-        <p style="font-size: medium; font-weight: 400;"></p>
         <ul style="text-align: left;">
             <li>Eileen Lyons, Cappataggle and formerly of Ballinderreen, months mind;</li>
             <li>Miko and Phil Lyons, Ballinderreen, anniversary and deceased family members;</li>
