@@ -4,11 +4,16 @@ title:  "Newsletter 2026/06/30"
 date: 2026-06-30 22:45:00 +0100
 ---
 
+<style>
+  .newsletter-article section {
+  	margin-bottom: 3em;
+  }
+</style>
 <article class="newsletter-article">
     <section id="header-image">
         <div style="text-align: center;"><img alt="img" height="362" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWx6btx7knZIXx-Key5NdKrybW0d3DI1eeqni2pt9QV0FXSUeaCTe--ADwdXJHzipy_SXK09VjA5orlEhgFEv_RAk_kC2TESt55H720ZeLg0jzzZh1n8Pxqq7xbxGEAcFXiGx8Lw=w640-h362?key=X4nLg5bKc1oZJ2U79zU9AA" width="640" /></div>
     </section>
-    <section fixtures="" id="">
+    <section id="fixtures">
         <h1>Fixtures</h1>
         <p style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/fixtures">All fixtures are available
                 on
@@ -27,8 +32,8 @@ date: 2026-06-30 22:45:00 +0100
         <p>Winning Numbers: 10, 12, 22 and 23</p>
         <p>No Jackpot Winner</p>
         <p>Match 3 Winner: Mary T Ruane</p>
-        <p><b>NEXT WEEK LOTTO JACKPOT WILL BE €9,000</b></p>
-        <p>The next draw will take place on the 27th of June 2026.</p>
+        <p><b>NEXT WEEK LOTTO JACKPOT WILL BE €9,100</b></p>
+        <p>The next draw will take place on the 4th of July 2026.</p>
         <p>Thank you again for your continued support of Ballinderreen Hurling and Camogie Club. By supporting our club
             lotto,
             you are helping raise much-needed funds for the club – your generosity is always most welcome and greatly
@@ -68,18 +73,15 @@ date: 2026-06-30 22:45:00 +0100
     <section id="intercounty-games">
         <h2>Intercounty Games</h2>
         <p>The Galway hurling team will take on Cork in the All-Ireland semi-final against Cork in Croke Park at 4pm on Saturday.</p>
-        <iframe title="Micheal Donoghue pre Cork" height="150" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=rg95h-1aff0ce-pb&from=pb6admin&share=1&download=1&rtl=1&fonts=Verdana&skin=3267a3&font-color=ffffff&logo_link=episode_page&btn-skin=8bbb4e" allowfullscreen=""></iframe>
+        <iframe allowfullscreen="" data-name="pb-iframe-player" height="150" scrolling="no" src="https://www.podbean.com/player-v2/?i=rg95h-1aff0ce-pb&amp;from=pb6admin&amp;share=1&amp;download=1&amp;rtl=1&amp;fonts=Verdana&amp;skin=3267a3&amp;font-color=ffffff&amp;logo_link=episode_page&amp;btn-skin=8bbb4e" style="border: none;" title="Micheal Donoghue pre Cork" width="100%"></iframe>
         <p style="text-align: left;"><br /></p>
-        <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1058862076472601%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-        <p style="text-align: left;"><br /></p>
+        <div style="text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="476" scrolling="no" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1058862076472601%2F&amp;show_text=false&amp;width=267&amp;t=0" style="border: none; overflow: hidden;" width="267"></iframe></div><p style="text-align: left;"><br /></p>
         <p style="text-align: left;">The Galway camogie team qualified for the All-Ireland camogie semi-final after a <a href="https://galwaycamogie.ie/2026-senior-championship-round-3-galway-v-tipperary/">3-17 to 0-15 win over Tipperary</a> at the weekend.</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/a30VGuQ0dl4?si=4OouZUH7hqywOsEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p style="text-align: left;"><br /></p>
+        <div style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/a30VGuQ0dl4?si=4OouZUH7hqywOsEu" title="YouTube video player" width="560"></iframe></div><p style="text-align: left;"><br /></p>
         <p style="text-align: left;">The Galway football team <a href="https://www.gaa.ie/article/all-ireland-sfc-qf-dublin-finish-strongly">lost their quarter-final against Dublin 1-25 to 1-21</a>.</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/PDfara25hBM?si=69JompBGA72XjIEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p style="text-align: left;"><br /></p>
+        <div style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PDfara25hBM?si=69JompBGA72XjIEp" title="YouTube video player" width="560"></iframe></div><p style="text-align: left;"><br /></p>
         <p>The Galway ladies football team will play Mayo in the All-Ireland quarter-final in Tuam Stadium on Sunday at 5:45pm</p>
-        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/s1562/galway-ladies-football.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1562" data-original-width="1440" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/w590-h640/galway-ladies-football.jpeg" width="590" /></a></div>
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/s1562/galway-ladies-football.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1562" data-original-width="1440" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/w590-h640/galway-ladies-football.jpeg" width="590" /></a></div>
         <p style="text-align: left;"><br /></p>
     </section>
     <section id="sea-to-summit-training-program">
@@ -125,9 +127,8 @@ date: 2026-06-30 22:45:00 +0100
     <section id="south-galway-athletics">
         <h2>South Galway Athletics</h2>
         <p>Congratulations to Orlaith Mannion who qualified for the U20 World Championships when breaking her personal best of 13.52 seconds.</p>
-        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1511588517117412%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-        <p>Congratulations to Ciarán Kelleher who won the All-Ireland U18 5,000m walk in a new personal best of 24:38.</p>
-        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WW-pCNZDbG7TQy-HFKsoUVSDd_iztIHfNU8pTEC345b0KXBGKCvVmGMR5MVBVYj4IBEw-LLR8pBG-qDDpjL11a-Lg8NFo543UuuTyxHdjebY03675dnby811JyRuaWoFuEEkGXnEqFmiulo7I7o_Gg1USvdqXjI2pTmk6xFIzwHf_Zbxf-PZTsm622fA/s2048/ciaran-kelleher-1.jpeg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WW-pCNZDbG7TQy-HFKsoUVSDd_iztIHfNU8pTEC345b0KXBGKCvVmGMR5MVBVYj4IBEw-LLR8pBG-qDDpjL11a-Lg8NFo543UuuTyxHdjebY03675dnby811JyRuaWoFuEEkGXnEqFmiulo7I7o_Gg1USvdqXjI2pTmk6xFIzwHf_Zbxf-PZTsm622fA/w480-h640/ciaran-kelleher-1.jpeg" width="480" /></a></div>
+        <div style="text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="314" scrolling="no" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1511588517117412%2F&amp;show_text=false&amp;width=560&amp;t=0" style="border: none; overflow: hidden;" width="560"></iframe></div><p>Congratulations to Ciarán Kelleher who won the All-Ireland U18 5,000m walk in a new personal best of 24:38.</p>
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WW-pCNZDbG7TQy-HFKsoUVSDd_iztIHfNU8pTEC345b0KXBGKCvVmGMR5MVBVYj4IBEw-LLR8pBG-qDDpjL11a-Lg8NFo543UuuTyxHdjebY03675dnby811JyRuaWoFuEEkGXnEqFmiulo7I7o_Gg1USvdqXjI2pTmk6xFIzwHf_Zbxf-PZTsm622fA/s2048/ciaran-kelleher-1.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WW-pCNZDbG7TQy-HFKsoUVSDd_iztIHfNU8pTEC345b0KXBGKCvVmGMR5MVBVYj4IBEw-LLR8pBG-qDDpjL11a-Lg8NFo543UuuTyxHdjebY03675dnby811JyRuaWoFuEEkGXnEqFmiulo7I7o_Gg1USvdqXjI2pTmk6xFIzwHf_Zbxf-PZTsm622fA/w480-h640/ciaran-kelleher-1.jpeg" width="480" /></a></div>
     </section>
     <section id="galway-races">
         <h2>Galway Races</h2>
