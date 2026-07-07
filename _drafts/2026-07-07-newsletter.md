@@ -1,0 +1,137 @@
+<style>
+  .newsletter-article section {
+  	margin-bottom: 3em;
+  }
+</style>
+<article class="newsletter-article">
+    <section id="header-image">
+        <div style="text-align: center;"><img alt="img" height="362" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWx6btx7knZIXx-Key5NdKrybW0d3DI1eeqni2pt9QV0FXSUeaCTe--ADwdXJHzipy_SXK09VjA5orlEhgFEv_RAk_kC2TESt55H720ZeLg0jzzZh1n8Pxqq7xbxGEAcFXiGx8Lw=w640-h362?key=X4nLg5bKc1oZJ2U79zU9AA" width="640" /></div>
+    </section>
+    <section id="fixtures">
+        <h1>Fixtures</h1>
+        <p style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/fixtures">All fixtures are available
+                on
+                ClubZap</a>.
+        </p>
+    </section>
+    <section id="results">
+        <h1 style="text-align: left;">Results</h1>
+        <p style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/results">All Results are available on
+                ClubZap</a></p>
+    </section>
+    <section id="lotto">
+        <h1 style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/draws/115768"><strong>Lotto Results
+                    for
+                    27/06/20</strong>26</a></h1>
+        <p>Winning Numbers: 10, 12, 22 and 23</p>
+        <p>No Jackpot Winner</p>
+        <p>Match 3 Winner: Mary T Ruane</p>
+        <p><b>NEXT WEEK LOTTO JACKPOT WILL BE €9,100</b></p>
+        <p>The next draw will take place on the 4th of July 2026.</p>
+        <p>Thank you again for your continued support of Ballinderreen Hurling and Camogie Club. By supporting our club
+            lotto,
+            you are helping raise much-needed funds for the club – your generosity is always most welcome and greatly
+            appreciated.&nbsp;</p>
+        <p>The lotto can now be played using ClubZap via the link below</p>
+        <p><a href="https://ballinderreengaa.clubzap.com/categories/lotto/products">https://ballinderreengaa.clubzap.com/categories/lotto/product</a>
+        </p>
+    </section>
+    <section id="music-festival">
+        <h2>South Galway Bay Music Festival 2026</h2>
+        <p style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-KQP4G7QdNXaZJ6z6JTCXoyCCP6bjcAOpLVW9U0PFO2BRzprpDY3YGvbCuKgr2jNthcoMC-HUCO5AcHWkR_J4UQz-psX1p6M-c8ak3dqOdEzy7oIuLGz6BXAmyDfQ5txKNDtSusFJGfXAMNMMkaCdUVpUkuEGhNIiEtt5ZgACWIpDl9lMEoimnGSx1a-/s2000/South%20Galway%20Bay%20Music%20Festival%202025%20Flyer.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2000" data-original-width="1414" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-KQP4G7QdNXaZJ6z6JTCXoyCCP6bjcAOpLVW9U0PFO2BRzprpDY3YGvbCuKgr2jNthcoMC-HUCO5AcHWkR_J4UQz-psX1p6M-c8ak3dqOdEzy7oIuLGz6BXAmyDfQ5txKNDtSusFJGfXAMNMMkaCdUVpUkuEGhNIiEtt5ZgACWIpDl9lMEoimnGSx1a-/w451-h640/South%20Galway%20Bay%20Music%20Festival%202025%20Flyer.png" width="451" /></a></p>
+        <p style="text-align: left;">The South Galway Bay Music Festival will take place from Friday 10th to Sunday 12th
+            July.
+            The full line-up of acts can be viewed above.</p>
+        <p style="text-align: left;">Key Information:<br /></p>
+        <ul style="text-align: left;">
+            <li>The festival is open to all ages.</li>
+            <li>Under 16s must be accompanied by an adult.</li>
+            <li>There will be no discounted Under 16 tickets available online.</li>
+            <li>Weekend Under 16 tickets (€20) will be made available within the community closer to the event.</li>
+        </ul>
+        <p></p>
+        <p style="text-align: left;">Adult Weekend Tickets:<br /></p>
+        <ul style="text-align: left;">
+            <li>Online weekend ticket price: €70</li>
+            <li>Community weekend ticket price: €60</li>
+        </ul>
+        <p></p>
+        <p style="text-align: left;">Discounted community tickets will not be available online. These tickets will be
+            available
+            to purchase through Hurling Club and Camogie Club Committee members, as well as Adult Hurling and Camogie
+            players.
+        </p>
+        <p style="text-align: left;">Fill out this form to request your <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf--c7XREUgz4QS9XgJERHv_jPJyUusou9k1MZjNy1F8P25A/viewform?usp=publish-editor" target="_blank">Community Discounted Tickets</a>.</p>
+        <div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/pD8XMBlXWy4" width="320" youtube-src-id="pD8XMBlXWy4"></iframe></div>
+    </section>
+    <section id="intercounty-games">
+        <h2>Intercounty Games</h2>
+        <p>The Galway hurling team will take on Cork in the All-Ireland semi-final against Cork in Croke Park at 4pm on Saturday.</p>
+        <iframe allowfullscreen="" data-name="pb-iframe-player" height="150" scrolling="no" src="https://www.podbean.com/player-v2/?i=rg95h-1aff0ce-pb&amp;from=pb6admin&amp;share=1&amp;download=1&amp;rtl=1&amp;fonts=Verdana&amp;skin=3267a3&amp;font-color=ffffff&amp;logo_link=episode_page&amp;btn-skin=8bbb4e" style="border: none;" title="Micheal Donoghue pre Cork" width="100%"></iframe>
+        <p style="text-align: left;"><br /></p>
+        <div style="text-align: center;"><iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="476" scrolling="no" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1058862076472601%2F&amp;show_text=false&amp;width=267&amp;t=0" style="border: none; overflow: hidden;" width="267"></iframe></div><p style="text-align: left;"><br /></p>
+        <p style="text-align: left;">The Galway camogie team qualified for the All-Ireland camogie semi-final after a <a href="https://galwaycamogie.ie/2026-senior-championship-round-3-galway-v-tipperary/">3-17 to 0-15 win over Tipperary</a> at the weekend.</p>
+        <div style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/a30VGuQ0dl4?si=4OouZUH7hqywOsEu" title="YouTube video player" width="560"></iframe></div><p style="text-align: left;"><br /></p>
+        <p style="text-align: left;">The Galway football team <a href="https://www.gaa.ie/article/all-ireland-sfc-qf-dublin-finish-strongly">lost their quarter-final against Dublin 1-25 to 1-21</a>.</p>
+        <div style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PDfara25hBM?si=69JompBGA72XjIEp" title="YouTube video player" width="560"></iframe></div><p style="text-align: left;"><br /></p>
+        <p>The Galway ladies football team will play Mayo in the All-Ireland quarter-final in Tuam Stadium on Sunday at 5:45pm</p>
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/s1562/galway-ladies-football.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1562" data-original-width="1440" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmu-zgcDSaablu7cv3qtH9-xpDlchPWUnoE0fNJuFKNxlXG2BoWgys6ys8KLNtjs9RcMpSw0YFjBUFO5N0DJzVSNmwnHWBT8UOJI1Yb65L8_eyEn36GlX5vvbwmFtkkLDKlcuDqDJxSv8hPDeetv4Ez1LM6tOiiG_94SfnPF6i5Nv16K5O5Z9TUxtXikMD/w590-h640/galway-ladies-football.jpeg" width="590" /></a></div>
+        <p style="text-align: left;"><br /></p>
+    </section>
+    <section id="sea-to-summit-training-program">
+        <h2>Mass Intentions</h2></section><section id="mass-intentions">
+        <p>The 10:30am Mass in Ballinderreen on the 28th of June
+            will
+            be
+            offered for</p>
+        <ul style="text-align: left;">
+            <li>Thomas and Mary Hynes, Toureen, anniversary;</li>
+            <li>Paul McNamara, Keamsella West, Kilcolgan, 4th anniversary and his parents Mike and Veronica McNamara, The Claddagh, anniversary.</li>
+        </ul>
+    </section>
+    <section id="parish-heritage-audit">
+        <h2>Parish Heritage Audit</h2>
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJfehJKQKLm-MvIW1Qm5SbtmlY6jtn0jPwo1yJAwrARPXrIP43yScqDJaYGBWHzgyy1S6WsbC9vgdzbKkbhALiMmQune8G3gucKQ87XDPqboF-HyQMfXdICcnAJ-syJ6cL47w1fQXyQ5KHh5cB8h5ej1iV-TEymFYhV30_-In0iHFeXGqk1Yin0CSS82m/s2048/parish-heritage-audit.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1448" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJfehJKQKLm-MvIW1Qm5SbtmlY6jtn0jPwo1yJAwrARPXrIP43yScqDJaYGBWHzgyy1S6WsbC9vgdzbKkbhALiMmQune8G3gucKQ87XDPqboF-HyQMfXdICcnAJ-syJ6cL47w1fQXyQ5KHh5cB8h5ej1iV-TEymFYhV30_-In0iHFeXGqk1Yin0CSS82m/w452-h640/parish-heritage-audit.jpg" width="452" /></a></div><br />
+        <p style="text-align: left;"></p>
+        <blockquote>The Ballinderren Parish Heritage Audit is currently collecting information about the sites and
+            stories connected to our past. Join us in the Community Room on Wednesday July 1st to hear about what we
+            have collected so far and help us explore what more we might discover.</blockquote>
+    </section>
+    <section id="south-galway-athletics">
+        <h2>South Galway Athletics</h2>
+        <p><br /></p>
+    </section>
+    <section id="galway-races">
+        <h2>Galway Races</h2>
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw9TBy4tep9cyKPtYRhOHmNiSNyM-OQvS5NZEeprGA1H1-m4NQV_9clRgqtgY7bHEwOwbif4YyWB8RYZCLB1LYTad7rqOohXWw5UnhWttV8G56CjNIPTuqXSVyxxApopour7hwkSQxUKI03n1s8BA2w4_45KxVMv4HUs2sEZFZGJrbzuVT_vggGJVLfzT0/s396/2026%20Flyer%20.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="396" data-original-width="271" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw9TBy4tep9cyKPtYRhOHmNiSNyM-OQvS5NZEeprGA1H1-m4NQV_9clRgqtgY7bHEwOwbif4YyWB8RYZCLB1LYTad7rqOohXWw5UnhWttV8G56CjNIPTuqXSVyxxApopour7hwkSQxUKI03n1s8BA2w4_45KxVMv4HUs2sEZFZGJrbzuVT_vggGJVLfzT0/w438-h640/2026%20Flyer%20.jpg" width="438" /></a></div>
+    </section>
+    <section>
+        <h2 style="text-align: left;">Galway LGFA Fundraising Draw</h2>
+        <p style="text-align: left;">This message is from Galway LGFA</p>
+        <p></p>
+        <blockquote>
+            <p>GALWAY LGFA FUNDRAISING DRAW 2026 IS NOW LIVE!</p>
+            <p>We’re delighted to launch our 2026 Big Fundraiser, giving you the chance to win fantastic prizes while
+                supporting the future of Galway Ladies Football</p>
+            <p>🏆 Prizes</p>
+            <p>🥇 €3,500 Cash</p>
+            <p>🥈 Brown Thomas Shopping Voucher worth €1,000</p>
+            <p>🥉 Blue Book Staycation Voucher worth €500</p>
+            <p>✨ PLUS monthly bonus draws for all ticket holders!</p>
+            <p><br /></p>
+            <p>🎟 Ticket Options</p>
+            <p>• 1 for €5</p>
+            <p>• 5 for €20</p>
+            <p>• 15 for €50</p>
+            <p><br /></p>
+            <p>Every ticket sold helps fund Galway LGFA teams and develop our future stars across the county. Your
+                support
+                makes a real difference 🙌</p>
+            <p>👉 Enter online here:&nbsp;<a href="https://www.galwaylgfa.ie/draw/">https://www.galwaylgfa.ie/draw/</a>
+            </p>
+        </blockquote>
+    </section>
+    <section id="footer-image">
+        <div class="separator" style="clear: both; text-align: center;"><a href="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg?key=X4nLg5bKc1oZJ2U79zU9AA" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1448" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg=s16000?key=X4nLg5bKc1oZJ2U79zU9AA" /></a></div>
+    </section>
+</article>
