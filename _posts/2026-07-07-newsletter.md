@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Newsletter 2026-07-07"
+title:  "Newsletter 2026/07/07"
 date:   2026-07-07 22:30:00 +0100
 categories: [Newsletter]
 ---
