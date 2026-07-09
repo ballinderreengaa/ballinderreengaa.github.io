@@ -8,6 +8,12 @@ categories: [Newsletter]
     .newsletter-article section {
         margin-bottom: 3em;
     }
+
+    .image-container,
+    .iframe-container {
+        display: flex;
+        justify-content: center;
+    }
 </style>
 <article class="newsletter-article">
     <section id="header-image">
@@ -104,7 +110,7 @@ categories: [Newsletter]
     <section id="nathan-fawl">
         <h2>Nathan Fawl</h2>
         <p>Congratulation to Nathan Fawl who won the Connacht U16 Puc Fada.</p>
-        <div class="separator" style="clear: both;"><a
+        <div class="image-container"><a
                 href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwxr5jSDMdOZjMJcLkQOJwEIxE0HI5-BUNYbU2JzSC9KwORh1ZS2ffDckEJSzuKKLzJ2vbKFZVFL5k9zI_upnenF_TbKSnBbwZUKg1a0L40I-Q2VNYhPrvnWcWzIxjTFN5gURhW_84c3Hp-OHFaVVSMph_6H9wAy2B2PDnbLR_6SvdKT4F0CG2KPbPtXG8/s2000/nathan-fawl.jpeg"
                 style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
                     data-original-height="1500" data-original-width="2000"
@@ -114,11 +120,14 @@ categories: [Newsletter]
     <section id="cul-camps">
         <h2>Cúl Camps</h2>
         <p>Thanks to all the players, coaches and volunteers who helped make the camps a success!</p>
+        <div class="iframe-container">
+        
         <iframe
             src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1553764576232566%2F&show_text=false&width=267&t=0"
             width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
             allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
             allowFullScreen="true"></iframe>
+        </div>
         <iframe
             src="https://www.facebook.com/plugins/video.php?height=415&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F27463984196576478%2F&show_text=false&width=560&t=0"
             width="560" height="415" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
