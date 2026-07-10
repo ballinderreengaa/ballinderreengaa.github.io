@@ -14,13 +14,6 @@ categories: [What's On This Weekend]
 	}
 </style>
 <article class="whats-on-this-weekend-post">
-	<div class="separator" style="clear: both;"><a
-			href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIHlys5mXjz4xGOhm9IZSpwraF8DklOBT7-dG31IhIaAIiRkc1uASdWg2eBtfbApofDcMA1CG1Mkzs6hB6sld13MDKkAB2a9vDCL55USjyqkmzm_-EDCmQDMWMoDwy4Bwhz8jf5f56wxW9b3mTkWG3WJfO1ENj5ufA5ENJJXzi-CojvcciWlA-7nmdXm8b/s1350/u14-camogie.jpeg"
-			style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600"
-				data-original-height="1350" data-original-width="1080"
-				src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIHlys5mXjz4xGOhm9IZSpwraF8DklOBT7-dG31IhIaAIiRkc1uASdWg2eBtfbApofDcMA1CG1Mkzs6hB6sld13MDKkAB2a9vDCL55USjyqkmzm_-EDCmQDMWMoDwy4Bwhz8jf5f56wxW9b3mTkWG3WJfO1ENj5ufA5ENJJXzi-CojvcciWlA-7nmdXm8b/s600/u14-camogie.jpeg" /></a>
-	</div>
-
 	<section id="friday">
 		<h2>Friday, 10th of July</h2>
 		<div>
