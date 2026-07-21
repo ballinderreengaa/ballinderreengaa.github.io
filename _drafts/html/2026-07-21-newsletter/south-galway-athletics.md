@@ -2,7 +2,13 @@
 
 https://www.facebook.com/permalink.php?story_fbid=pfbid0CsAzg7TGKem8YqDXHREtqquo4F6bTpZxpLKH65pc8THpMXginYwRjqechrnmaqYul&id=100064390434076
 
-Congratulations to Claudia Coyle who represented Ireland in the
+Congratulations to Claudia Coyle who represented Ireland in the steeplechase in the Schools International event in Belfast.
+
+Congratulations to Orlaith Mannion who was selected to represent Ireland in the World Athletics U20 Championships that take place between the 5th and 9th of August in Oregon.
+
+South Galway Athletics are looking for sponsors to help support Orlaith in her preparations for the championships.
+
+Interested parties can get in touch through the club's email address: sgacjuvenileclub@gmail.com
 
 World U20 Championships Selection for Orlaith Mannion!
 Huge congratulations to Orlaith for this achievement,  she is so deserving of this selection and we are incredible proud of her.
