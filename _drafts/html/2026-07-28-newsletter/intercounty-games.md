@@ -1,1 +1,7 @@
 ## Intercounty Games
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s1080/galway-camogie-ladies-football.jpeg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s600/galway-camogie-ladies-football.jpeg"/></a></div>
+
+Best of luck of to the Galway ladies football team who will play Kerry in the All-Ireland final this Sunday in Croke Park at tk. The game will bbe shown live on TG4. Tickets can be purchased at this link:
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1271539001597155%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
