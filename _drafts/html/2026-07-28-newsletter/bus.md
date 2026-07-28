@@ -6,12 +6,12 @@ Galway V Cork in the All-Ireland Camogie Final in Croke Park on Saturday, August
 
 Bus and Match ticket prices (if booked through the club by Friday 31/07/2026 at 7pm):
 
-• Adult bus and match ticket - €40
-• U16 bus and match ticket - €20 (U16s must be accompanied by a parent/guardian)
-• Adult match ticket only - €20
-• U16 match ticket only - €10
-• Adult bus ticket only - €20
-• U16 bus ticket only - €10 (U16s must be accompanied by a parent/guardian)
+* Adult bus and match ticket - €40
+* U16 bus and match ticket - €20 (U16s must be accompanied by a parent/guardian)
+* Adult match ticket only - €20
+* U16 match ticket only - €10
+* Adult bus ticket only - €20
+* U16 bus ticket only - €10 (U16s must be accompanied by a parent/guardian)
 
 Link to purchase https://ballinderreengaa.clubzap.com/products
 
