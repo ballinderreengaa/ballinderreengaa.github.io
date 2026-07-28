@@ -1,9 +1,17 @@
 ## Poc Fada
 
-Best of luck to Nathan Fawl who will participate in the 
+Best of luck to Nathan Fawl, pictured here being presented with the U16 Connacht Poc Fada trophy,  who will participate in the All-Ireland Poc Fada Final this Monday, 3rd of August, on Annaverna Mountain in Co. Louth.
 
-https://www.facebook.com/gaapocfada/posts/pfbid0iMWxZgPoko19kys5ydSgGL869z5V9P6gPPb5rEo3V5aKFFtTHKQ1ATYS1tbT4P7rl
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_wXemOiqOIXJIpbvdfzRR-NTGJ9y3UnqnwYDOTKtLmMzCgictTGel-FrP9hLyFWuzCZQ2oI1dmpBBOK9iejhx2i7AFl_j14s5ueV2IU2X1cN61LJdAe0AWs9N8A6JSCZhCndk3Zhsh3B4I_7lYG34VoQU7QhhYZ3OpIpWyQR8KHdV3vDG7TkxsFpAdLMP/s2048/nathan-fawl.jpeg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="1365" data-original-width="2048" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_wXemOiqOIXJIpbvdfzRR-NTGJ9y3UnqnwYDOTKtLmMzCgictTGel-FrP9hLyFWuzCZQ2oI1dmpBBOK9iejhx2i7AFl_j14s5ueV2IU2X1cN61LJdAe0AWs9N8A6JSCZhCndk3Zhsh3B4I_7lYG34VoQU7QhhYZ3OpIpWyQR8KHdV3vDG7TkxsFpAdLMP/s600/nathan-fawl.jpeg"/></a></div>
+
+The GAA have put together a guide for people who wish to attend which can be found [here](https://www.facebook.com/gaapocfada/posts/pfbid0iMWxZgPoko19kys5ydSgGL869z5V9P6gPPb5rEo3V5aKFFtTHKQ1ATYS1tbT4P7rl).
+
+The U16 competition begins at 12:30pm
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQz8dFPfsohSigMRLf6adoQMq9rwPT1PDNf1kDGVBcFklG51pZLUx3dj-08hblUKpG8xwFWwb_sJ4XF0s4Cm8o6zUpZLRaiIvVR4-j3TgSuHuAAv4FmdEcgs9mgzTqAm6e8v_a0bdgSnFtBxqs7qPTC2nV3AMXZEYOm6PBPOLCgL1p_NBOlMWBaRwpnF7/s1920/poc-fada-schedule.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600" data-original-height="1920" data-original-width="1440" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipQz8dFPfsohSigMRLf6adoQMq9rwPT1PDNf1kDGVBcFklG51pZLUx3dj-08hblUKpG8xwFWwb_sJ4XF0s4Cm8o6zUpZLRaiIvVR4-j3TgSuHuAAv4FmdEcgs9mgzTqAm6e8v_a0bdgSnFtBxqs7qPTC2nV3AMXZEYOm6PBPOLCgL1p_NBOlMWBaRwpnF7/s600/poc-fada-schedule.jpg"/></a></div>
 
+Updates may be seen on the Poc Fada's social media channels.
+
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK99TwkspbXCSxYX4gvlOVEGT38N6F6ZQ0n-TpFrc0Eg86iF4Y9nMvFxpfxK9shn3et4_VrToTHe-mH3S9nPYbzz1NxgiomsNOCmd98hkm9ozJo4X6VmwvNZPcUAOQOsA0QqSPIpF5ZV7mz8_XrKNrV3e4x-mEekAkY14IJTPjqXRaZsMj_gXW63SBLy4d/s1920/poc-fada-social-media.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600" data-original-height="1920" data-original-width="1440" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK99TwkspbXCSxYX4gvlOVEGT38N6F6ZQ0n-TpFrc0Eg86iF4Y9nMvFxpfxK9shn3et4_VrToTHe-mH3S9nPYbzz1NxgiomsNOCmd98hkm9ozJo4X6VmwvNZPcUAOQOsA0QqSPIpF5ZV7mz8_XrKNrV3e4x-mEekAkY14IJTPjqXRaZsMj_gXW63SBLy4d/s600/poc-fada-social-media.jpg"/></a></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZxoW_zWszU?si=ZK5iuD_yvctjGBY7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
