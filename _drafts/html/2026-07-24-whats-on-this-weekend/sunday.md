@@ -10,7 +10,14 @@ Time: 11am
 Galway v Kerry
 Venue: Croke Park
 Time: 4:15pm
-Tickets:
+Tickets for Sunday’s games are priced at €30 for adults and €15 for students, OAPs and U-18s, Family: 2 adults and 2 U-18s – €70.
+
+Group rates are available only from the LGFA Office (1 Adult @ €10 for every group of 10 U-18s at €5 per child – €60)
+
+Email tickets@lgfa.ie or phone 01-8363156 for more details.
+
+Tickets are also available at usual GAA outlets and [online via Ticketmaster](https://www.ticketmaster.ie/lgfa-tg4-all-ireland-finals-dublin-02-08-2026/event/180064CBB1FDDDC0).
+
 This game will be shown live on TG4
 
 ### TV
