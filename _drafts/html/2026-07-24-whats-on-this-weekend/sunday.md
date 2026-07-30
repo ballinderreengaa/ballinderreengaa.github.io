@@ -14,8 +14,15 @@ Tickets:
 This game will be shown live on TG4
 
 ### TV
-#### 4:15pm
-Galway v Kerry, All-Ireland Ladies Football Championship Final
+
+#### 11:45am
+Antrim v Carlow, All-Ireland Ladies Junior Football Championship Final
 *TG4*
 
-### Streaming
+#### 1:45pm
+Roscommon v Fermanagh, All-Ireland Ladies Intermediate Football Championship Final
+*TG4*
+
+#### 4:15pm
+Galway v Kerry, All-Ireland Ladies Senior Football Championship Final
+*TG4*
