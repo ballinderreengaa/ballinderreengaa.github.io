@@ -1,6 +1,16 @@
 ## Saturday, 1st of August
 
+### TV
+
+#### 12:05pm
+Ireland v Australia, Australian Football League Women (AFLW) REPRESENTATION MATCH
+*TG4*
+
 ### Streaming
+
+#### 7:15am
+Ireland v Australia, Australian Football League Women (AFLW) REPRESENTATION MATCH
+*[TG4 Player](https://www.tg4.ie/ga/player/seinn/?pid=6393022623112)*
 
 #### 6:30pm
 Oughterard v Tuam Stars, Galway Senior Football Championship
