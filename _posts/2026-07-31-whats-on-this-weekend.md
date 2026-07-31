@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "What's On This Weekend"
+date:   2026-07-31 13:00:00 +0100
+categories: [What's On This Weekend]
+---
 <style>
 	.whats-on-this-weekend-post h4 {
 		margin-bottom: 0px;
