@@ -7,6 +7,9 @@ Time: 11am
 
 ### Galway
 #### All-Ireland Ladies Football Championship Final
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s1800/galway-ladies-football.jpeg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1800" data-original-width="1440" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s600/galway-ladies-football.jpeg" /></a>
+
 Galway v Kerry
 Venue: Croke Park
 Time: 4:15pm
@@ -18,7 +21,9 @@ Email [tickets@lgfa.ie](mailto:tickets@lgfa.ie) or phone 01-8363156 for more det
 
 Tickets are also available at usual GAA outlets and [online via Ticketmaster](https://www.ticketmaster.ie/lgfa-tg4-all-ireland-finals-dublin-02-08-2026/event/180064CBB1FDDDC0).
 
-This game will be shown live on TG4
+This game will be shown live on TG4.
+
+<iframe title="Ladies Football Final Preview" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=x6c99-1b2539f-pb&share=1&download=1&fonts=Verdana&skin=3267a3&font-color=ffffff&rtl=1&logo_link=episode_page&btn-skin=8bbb4e&size=150" loading="lazy"></iframe>
 
 ### TV
 
