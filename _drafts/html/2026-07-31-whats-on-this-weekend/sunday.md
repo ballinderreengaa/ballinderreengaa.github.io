@@ -14,7 +14,7 @@ Tickets for Sunday’s games are priced at €30 for adults and €15 for studen
 
 Group rates are available only from the LGFA Office (1 Adult @ €10 for every group of 10 U-18s at €5 per child – €60)
 
-Email tickets@lgfa.ie or phone 01-8363156 for more details.
+Email [tickets@lgfa.ie](mailto:tickets@lgfa.ie) or phone 01-8363156 for more details.
 
 Tickets are also available at usual GAA outlets and [online via Ticketmaster](https://www.ticketmaster.ie/lgfa-tg4-all-ireland-finals-dublin-02-08-2026/event/180064CBB1FDDDC0).
 
