@@ -1,18 +1,17 @@
 ## Sunday, 2nd of August
 ### Ballinderreen
 #### U17 B Hurling Championship
-Ballinderreen v Mullagh-Kiltormer
-Venue: Ballinderreen
-Time: 11am
+Ballinderreen v Mullagh-Kiltormer<br />Venue: Ballinderreen<br />Time: 11am
 
 ### Galway
 #### All-Ireland Ladies Football Championship Final
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s1800/galway-ladies-football.jpeg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1800" data-original-width="1440" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s600/galway-ladies-football.jpeg" /></a>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s1800/galway-ladies-football.jpeg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1800" data-original-width="1440" height="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvuRFh3z1p2GAp2Hwlg7-krpjU22YEjYwzR8x_muFpomVeNOc18_Y3nyujKa9p3O1BUNMXvLvS4i_1rbD1eM93Eevf2eclvAroJBd8iyGi9KaJhfZTlo1RRxPC1UMGmsJHvC4nlJYEm2D6xvZomMSUtMeBufQuaNiEp-Nl9GF91kumW8-ZlNVo6OiHwJX8/s600/galway-ladies-football.jpeg" /></a></div>
 
-Galway v Kerry
-Venue: Croke Park
+Galway v Kerry<br />
+Venue: Croke Park<br />
 Time: 4:15pm
+
 Tickets for Sunday’s games are priced at €30 for adults and €15 for students, OAPs and U-18s, Family: 2 adults and 2 U-18s – €70.
 
 Group rates are available only from the LGFA Office (1 Adult @ €10 for every group of 10 U-18s at €5 per child – €60)
@@ -28,13 +27,13 @@ This game will be shown live on TG4.
 ### TV
 
 #### 11:45am
-Antrim v Carlow, All-Ireland Ladies Junior Football Championship Final
+Antrim v Carlow, All-Ireland Ladies Junior Football Championship Final<br />
 *TG4*
 
 #### 1:45pm
-Roscommon v Fermanagh, All-Ireland Ladies Intermediate Football Championship Final
+Roscommon v Fermanagh, All-Ireland Ladies Intermediate Football Championship Final<br />
 *TG4*
 
 #### 4:15pm
-Galway v Kerry, All-Ireland Ladies Senior Football Championship Final
+Galway v Kerry, All-Ireland Ladies Senior Football Championship Final<br />
 *TG4*

@@ -3,9 +3,9 @@
 ### Streaming
 
 #### 7:30pm
-Corofin v Claregalway, Galway Senior Football Championship
+Corofin v Claregalway, Galway Senior Football Championship<br />
 *[Galway GAA TV](https://galway.streamsport.ie/item?id=5163516)*
 
 #### 7:30pm
-Milltown v Salthill-Knocknacarra, Galway Senior Football Championship
+Milltown v Salthill-Knocknacarra, Galway Senior Football Championship<br />
 *[Galway GAA TV](https://galway.streamsport.ie/item?id=5163515)*
