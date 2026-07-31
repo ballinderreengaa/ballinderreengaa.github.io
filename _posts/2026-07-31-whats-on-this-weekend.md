@@ -91,5 +91,9 @@ categories: [What's On This Weekend]
 		<p>Galway v Kerry, All-Ireland Ladies Senior Football Championship Final<br />
 			<em>TG4</em>
 		</p>
+		<h4>9:30pm</h4>
+		<p>The Sunday Game<br />
+			<em>RTÉ2</em>
+		</p>
 	</section>
 </article>
