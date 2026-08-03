@@ -1,0 +1,9 @@
+## Intercounty Games
+
+Congratulations to the Galway camogie team who [defeated Kilkenny in the All-Ireland semi-final](https://galwaycamogie.ie/2026-senior-championship-semifinal-galway-v-kilkenny/). [They will play Cork](https://galwaycamogie.ie/2026-senior-championship-final-galway-v-cork/) in a replay of [last year's All-Ireland final](https://www.youtube.com/watch?v=cqQPAoIgD6Y).
+
+<iframe title="Galway v KIlkenny FT" height="150" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=frehg-1b1dbe8-pb&from=pb6admin&share=1&download=1&rtl=1&fonts=Verdana&skin=3267a3&font-color=ffffff&logo_link=episode_page&btn-skin=8bbb4e" allowfullscreen=""></iframe>
+
+Best of luck of to the Galway ladies football team who will play Kerry in the All-Ireland final this Sunday in Croke Park at 4:15pm. The game will be shown live on TG4. Tickets can be purchased at this link: https://www.ticketmaster.ie/lgfa-tg4-all-ireland-finals-dublin-02-08-2026/event/180064CBB1FDDDC0
+
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s1080/galway-camogie-ladies-football.jpeg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s600/galway-camogie-ladies-football.jpeg"/></a></div>
