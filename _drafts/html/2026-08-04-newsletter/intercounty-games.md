@@ -1,9 +1,19 @@
+<section id=“intercounty-games>
 ## Intercounty Games
 
-Congratulations to the Galway camogie team who [defeated Kilkenny in the All-Ireland semi-final](https://galwaycamogie.ie/2026-senior-championship-semifinal-galway-v-kilkenny/). [They will play Cork](https://galwaycamogie.ie/2026-senior-championship-final-galway-v-cork/) in a replay of [last year's All-Ireland final](https://www.youtube.com/watch?v=cqQPAoIgD6Y).
+Congratulation to the Galway ladies football team [who defeated Kerry in the All-Ireland final](https://www.gaa.ie/article/glory-for-galway-at-croke-park) on Sunday 2-7 to 0-12.
 
-<iframe title="Galway v KIlkenny FT" height="150" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=frehg-1b1dbe8-pb&from=pb6admin&share=1&download=1&rtl=1&fonts=Verdana&skin=3267a3&font-color=ffffff&logo_link=episode_page&btn-skin=8bbb4e" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvJ0sN9B-rE?si=9z9c-F7p5b8SDET5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Best of luck of to the Galway ladies football team who will play Kerry in the All-Ireland final this Sunday in Croke Park at 4:15pm. The game will be shown live on TG4. Tickets can be purchased at this link: https://www.ticketmaster.ie/lgfa-tg4-all-ireland-finals-dublin-02-08-2026/event/180064CBB1FDDDC0
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s851/galway-camogie.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="315" data-original-width="851" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s600/galway-camogie.png"/></a></div>
 
-<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s1080/galway-camogie-ladies-football.jpeg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="1080" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRgX8f_NmhyphenhyphensC1xoGx1KlReo-SHI5mqmvF0QAIvAgy2t0goT_UD5UFzCVNAM6btwLT5KlVFendxm0QyZRzuBL4RJQP-j941SYa9sLYbEbkjo_XP0EiOWmfE785Li022f25byJiNtC40mnJ3bizpw89KGzGTzBtVyJLw2EBBZm8c0EweoTSj43nLJPde-L_/s600/galway-camogie-ladies-football.jpeg"/></a></div>
+Best of luck to Fiona Ryan the Galway camogie team who [will play Cork](https://galwaycamogie.ie/2026-senior-championship-final-galway-v-cork/) in a replay of [last year's All-Ireland final](https://www.youtube.com/watch?v=cqQPAoIgD6Y).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqQPAoIgD6Y?si=E4pYUpT4AZ22MdT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+They also met earlier in this year’s championship.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCzYwlMedqg?si=q9lyOo4C0ag3tWj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</section>
+
