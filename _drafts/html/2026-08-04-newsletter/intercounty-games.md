@@ -9,7 +9,7 @@ Congratulation to the Galway ladies football team [who defeated Kerry in the All
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s851/galway-camogie.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="315" data-original-width="851" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s600/galway-camogie.png"/></a></div>
 
-Best of luck to Fiona Ryan the Galway camogie team who [will play Cork](https://galwaycamogie.ie/2026-senior-championship-final-galway-v-cork/) in a replay of [last year's All-Ireland final](https://www.youtube.com/watch?v=cqQPAoIgD6Y).
+Best of luck to Fiona Ryan and the Galway camogie team who [will play Cork](https://galwaycamogie.ie/2026-senior-championship-final-galway-v-cork/) in a replay of [last year's All-Ireland final](https://www.youtube.com/watch?v=cqQPAoIgD6Y).
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqQPAoIgD6Y?si=E4pYUpT4AZ22MdT5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,6 +20,10 @@ They also met earlier in this year’s championship.
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCzYwlMedqg?si=q9lyOo4C0ag3tWj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+<iframe title="Carrie Dolan pre All-Ireland Final" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=gw72d-1b2995f-pb&share=1&download=1&fonts=Verdana&skin=3267a3&font-color=ffffff&rtl=1&logo_link=&btn-skin=8bbb4e&size=150" loading="lazy"></iframe>
+
+<iframe title="Cathal Murray Pre All-Ireland Final" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=2zg53-1b29a0e-pb&share=1&download=1&fonts=Verdana&skin=3267a3&font-color=ffffff&rtl=1&logo_link=&btn-skin=8bbb4e&size=150" loading="lazy"></iframe>
 
 </section>
 
