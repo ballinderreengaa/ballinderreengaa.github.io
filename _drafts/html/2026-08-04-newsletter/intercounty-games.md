@@ -16,6 +16,7 @@ Best of luck to Fiona Ryan the Galway camogie team who [will play Cork](https://
 </div>
 
 They also met earlier in this year’s championship.
+
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCzYwlMedqg?si=q9lyOo4C0ag3tWj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
