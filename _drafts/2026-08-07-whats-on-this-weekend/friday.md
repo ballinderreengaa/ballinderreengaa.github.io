@@ -3,6 +3,8 @@
 ### Ballinderreen
 #### Junior A Hurling Championship
 Ballinderreen v Tommy Larkins<br />Venue: [Ballinderreen](https://maps.app.goo.gl/75eMCKYkDyXj5ACBA)<br />Time: 7pm
+#### U15 Camogie Challenge Match
+Ballinderreen v Athenry<br />Venue: [Ballinderreen](https://maps.app.goo.gl/75eMCKYkDyXj5ACBA)<br />Time: 8:30pm
 
 ### Athletics
 
