@@ -1,4 +1,4 @@
-## Monday, 10th of August
+## Monday, 10th of August
 
 ### Ballinderreen
 #### U14 Roinn A1 Group 2

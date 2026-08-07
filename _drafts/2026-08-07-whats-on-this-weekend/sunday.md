@@ -1,6 +1,13 @@
-## Sunday, 9th of August
+## Sunday, 9th of August
 ### Galway
 #### All-Ireland Camogie Championship Final
+
+<div class="separator" style="clear: both;"><a
+        href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s851/galway-camogie.png"
+        style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+            data-original-height="315" data-original-width="851"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjga1TVOByWcZwTkXRl7bcl-1P4jQkxqZfJ69imEU_qyeus3LIoO3vX5x9ldjYV7P11E8SvvW5Sod52N8qt0Yn_45D5C6oMjc8jdFNfhOsl37VY_ekUKaDl4GwJga0BCT4nsBsjPVUWA94OJQRSKQztidu0SeycTmvzfwwOeQ9T42xdZNnXdhNSUZLL9hXx/s600/galway-camogie.png" /></a>
+</div>
 
 Galway v Cork<br />
 Venue: Croke Park<br />

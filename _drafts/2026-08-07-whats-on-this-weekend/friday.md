@@ -1,4 +1,4 @@
-## Friday, 7th of August
+## Friday, 7th of August
 
 ### Ballinderreen
 #### Junior A Hurling Championship
@@ -12,4 +12,4 @@ Ballinderreen v Athenry<br />Venue: [Ballinderreen](https://maps.app.goo.gl/75eM
 
 Best of luck to Orlaith Mannion who will run in the heats of the U20 World Athletics Championships around 6:30pm.
 
-The championships are being livestreamed on  [World Athletics+](https://worldathletics.org/videos)
+The championships are being livestreamed on  [World Athletics+](https://worldathletics.org/videos) and [Eurovision Sport](https://eurovisionsport.com/en)

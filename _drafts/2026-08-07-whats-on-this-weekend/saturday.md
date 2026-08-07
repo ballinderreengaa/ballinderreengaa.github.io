@@ -1,4 +1,4 @@
-## Saturday, 8th of August
+## Saturday, 8th of August
 ### Ballinderreen
 #### Premier Intermediate Hurling Championship
 Ballinderreen v Rahoon-Newcastle<br />Venue: Pearse Stadium<br />Time: 4:45pm<br /> Tickets: <a class="autolink" href="https://www.universe.com/events/steeltech-sheds-premier-intermediate-hc-rahoon-newcastle-v-ballinderreen-tickets-85M4K9">https://www.universe.com/events/steeltech-sheds-premier-intermediate-hc-rahoon-newcastle-v-ballinderreen-tickets-85M4K9</a></p><p>Ticket pricing is as follows:</p><p></p><ul style="text-align: left;"><li>Adult online tickets €12 – Contactless Adult payment at the gate €15</li><li>Student/OAP’s online ticket €10 – Contactless Student/OAP’s payment at the gate €12</li><li>Students/OAP’s will be required to provide the relevant ID</li><li>U16s Free of Charge</li></ul><p></p><p>Tickets can be purchased online in advance and there will be the option to make contactless card payment only at the grounds on match day</p><p>Please note that there is no facility to pay by cash at the gates</p>
@@ -35,3 +35,17 @@ Turloughmore v Athenry, Galway Senior Hurling Championship<br />
 #### 6pm
 Craughwell v Clarinbridge, Galway Senior Hurling Championship<br />
 *[Galway GAA TV](https://galway.streamsport.ie/item?id=5177544)*
+
+### Water Olympics
+
+<div class="separator" style="clear: both;"><a
+        href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH-aJfqC21EHnmZppw-5go4xhjWU5I85nfGskMiqgR5u9bVAVnDVVOj7w5u61vEBJQlHkrTNAbY_WfxGgEOemG9ojTb-JUvkBF7i4ioxGbvWRwKSh1rLYwFGq9geGNuyZtdZazfwIQtrVwJOQwC-SB7qWjZGST3r_IRpueYFWGCgVCPvK4FXIYqohmdf6_/s1522/water-olympics.jpeg"
+        style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+            data-original-height="989" data-original-width="1522"
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH-aJfqC21EHnmZppw-5go4xhjWU5I85nfGskMiqgR5u9bVAVnDVVOj7w5u61vEBJQlHkrTNAbY_WfxGgEOemG9ojTb-JUvkBF7i4ioxGbvWRwKSh1rLYwFGq9geGNuyZtdZazfwIQtrVwJOQwC-SB7qWjZGST3r_IRpueYFWGCgVCPvK4FXIYqohmdf6_/s600/water-olympics.jpeg" /></a>
+</div>
+
+<p>The Water Olympics event that was postponed will take place this Saturday from 12pm to 1:30pm and is open to
+    club members between the ages of 5 and 12.</p>
+Tickets can be purchased at the following link: <a class="autolink"
+    href="https://ballinderreengaa.clubzap.com/products/36146/purchases/new">https://ballinderreengaa.clubzap.com/products/36146/purchases/new</a>
