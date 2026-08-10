@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Premier Intermediate Hurling Championship v Rahoon-Newcastle”
+title:  "Premier Intermediate Hurling Championship v Rahoon-Newcastle"
 date:   2026-08-05 13:00:00 +0100
 categories: [Tickets]
 ---
