@@ -1,4 +1,8 @@
-## Galway Outdoor Recreation Strategy
+---
+layout: post
+title:  "Galway Outdoor Recreation Strategy"
+date:   2026-08-10 14:00:00 +0100
+---
 
 This message is from Galway County Council.
 
