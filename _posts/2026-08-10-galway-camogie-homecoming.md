@@ -3,6 +3,8 @@ layout: post
 title:  "Galway Camogie Homecoming"
 date:   2026-08-10 15:00:00 +0100
 ---
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-9FykF2lVz_3-lQmWeymy9-WptvytDER2CFTt5jDytoRlHA29DFHtzR2QAaO5TdhXPieII7h-ces5MtAsfAiUcVeq7huqr82bpPbrjBAUFV6xepsoG63WIQpxdeRg-q7m0BSpPfczcMayuX17LlMTDX-lq9a6Z5LdRLIRRzhdddWWlnwbSRSVk2Yqixv/s1350/homecoming.jpeg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600" data-original-height="1350" data-original-width="1080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-9FykF2lVz_3-lQmWeymy9-WptvytDER2CFTt5jDytoRlHA29DFHtzR2QAaO5TdhXPieII7h-ces5MtAsfAiUcVeq7huqr82bpPbrjBAUFV6xepsoG63WIQpxdeRg-q7m0BSpPfczcMayuX17LlMTDX-lq9a6Z5LdRLIRRzhdddWWlnwbSRSVk2Yqixv/s600/homecoming.jpeg"/></a></div>
+
 
 This message is from Galway camogie
 
