@@ -7,7 +7,7 @@ categories: [Tickets]
 
 Ballinderreen will begin their Premier Intermediate Hurling Championship campaign against Rahoon-Newcastle on Saturday in Pearse Stadium at 4:45pm.
 
-Tickets can be purchased at this link: https://www.universe.com/events/steeltech-sheds-premier-intermediate-hc-rahoon-newcastle-v-ballinderreen-tickets-85M4K9
+Tickets can be purchased at this link: [https://www.universe.com/events/steeltech-sheds-premier-intermediate-hc-rahoon-newcastle-v-ballinderreen-tickets-85M4K9](https://www.universe.com/events/steeltech-sheds-premier-intermediate-hc-rahoon-newcastle-v-ballinderreen-tickets-85M4K9)
 
 Ticket pricing is as follows:
 
