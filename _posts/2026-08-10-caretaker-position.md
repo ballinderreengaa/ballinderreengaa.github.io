@@ -22,4 +22,4 @@ Eligibility to participate on CE is generally linked to those who are 21 years o
 
 To register your interest you can contact an Employment Personal Advisor (EPA) in your local Intreo Centre. 
 
-More details can be found at this link: https://jobsireland.ie/en-US/job-Details?id=2463284
+More details can be found at this link: [https://jobsireland.ie/en-US/job-Details?id=2463284](https://jobsireland.ie/en-US/job-Details?id=2463284)
