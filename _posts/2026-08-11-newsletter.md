@@ -1,0 +1,283 @@
+---
+layout: post
+title:  "Newsletter 2026/08/11"
+date:   2026-08-11 22:00:00 +0100
+categories: []
+---
+<style>
+    .newsletter-article section {
+        margin-bottom: 3em;
+    }
+
+    .video-container {
+        display: flex;
+        justify-content: center;
+    }
+</style>
+<article class="newsletter-article">
+    <section id="header-image">
+        <div style="text-align: center;"><img alt="img" height="362"
+                src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWx6btx7knZIXx-Key5NdKrybW0d3DI1eeqni2pt9QV0FXSUeaCTe--ADwdXJHzipy_SXK09VjA5orlEhgFEv_RAk_kC2TESt55H720ZeLg0jzzZh1n8Pxqq7xbxGEAcFXiGx8Lw=w640-h362?key=X4nLg5bKc1oZJ2U79zU9AA"
+                width="640" /></div>
+    </section>
+    <section id="fixtures">
+        <h1>Fixtures</h1>
+        <p style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/fixtures">All fixtures are available
+                on
+                ClubZap</a>.
+        </p>
+    </section>
+    <section id="results">
+        <h1 style="text-align: left;">Results</h1>
+        <p style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/results">All Results are available on
+                ClubZap</a></p>
+    </section>
+    <section id="lotto">
+        <h1 style="text-align: left;"><a href="https://ballinderreengaa.clubzap.com/draws/117798">Lotto Results
+                for 08/08/2026</a></h1>
+        <p>Winning Numbers: 10, 14, 31 and 32</p>
+        <p>No Jackpot Winner</p>
+        <p>Lucky Dip Winners: Sean Hynes and Tara O'Toole</p>
+        <p><b>NEXT WEEK LOTTO JACKPOT WILL BE €9,700</b></p>
+        <p>The next draw will take place on the 15th of August 2026.</p>
+        <p>Thank you again for your continued support of Ballinderreen Hurling and Camogie Club. By supporting our club
+            lotto,
+            you are helping raise much-needed funds for the club – your generosity is always most welcome and greatly
+            appreciated.&nbsp;</p>
+        <p>The lotto can now be played using ClubZap via the link below</p>
+        <p><a
+                href="https://ballinderreengaa.clubzap.com/categories/lotto/products">https://ballinderreengaa.clubzap.com/categories/lotto/product</a>
+        </p>
+    </section>
+
+    <section id=“premier-intermediate-championship”>
+
+        <h2>Premier Intermediate Championship</h2>
+
+        <p>Congratulations to the intermediate hurling team who won their opening championship against Rahoon-Newcastle
+            4-21 to 1-18.</p>
+
+        <p><iframe title="Ballinderreen v Rahoon-Newcastle" allowtransparency="true" height="150" width="100%"
+                style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no"
+                data-name="pb-iframe-player"
+                src="https://www.podbean.com/player-v2/?from=embed&i=37ran-1b2fc37-pb&share=1&download=1&fonts=Verdana&skin=3267a3&font-color=ffffff&rtl=1&logo_link=episode_page&btn-skin=8bbb4e&size=150"
+                loading="lazy"></iframe></p>
+
+        <p>They will play Padraig Pearses in the next round who had a 1-19 to 2-14 win over Ballygar in their first
+            game.</p>
+
+        <p><iframe title="Padraig Pearses v Ballygar" allowtransparency="true" height="150" width="100%"
+                style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no"
+                data-name="pb-iframe-player"
+                src="https://www.podbean.com/player-v2/?from=embed&i=r2yj8-1b2fc3a-pb&share=1&download=1&fonts=Verdana&skin=3267a3&font-color=ffffff&rtl=1&logo_link=episode_page&btn-skin=8bbb4e&size=150"
+                loading="lazy"></iframe></p>
+
+        <p>Congratulations to Shane Larkin, Donnacha Ganly and Kieran Meehan who were named on Galway Bay FM's
+            Intermediate Team of the Week.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAzJVVVziyLI7Bb1MJj_yOqyMRnzx4qj_XyU-5NUVLmzMEFBKc9l6upfAqIq7TyEpmwVRVri3hg0yR-J0ihO5V13UiaKi2G5bsoZi4w1uZ0N6IjonIisZsKhf8DZ1VqHPnHm4-Z2583D5gTB_J-tVYdlrof4epOw5kxOGdKyTNLiUlDL1Gtog7D5JpA1s/s1080/intermediate-team-of-the-week.jpeg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1080" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAzJVVVziyLI7Bb1MJj_yOqyMRnzx4qj_XyU-5NUVLmzMEFBKc9l6upfAqIq7TyEpmwVRVri3hg0yR-J0ihO5V13UiaKi2G5bsoZi4w1uZ0N6IjonIisZsKhf8DZ1VqHPnHm4-Z2583D5gTB_J-tVYdlrof4epOw5kxOGdKyTNLiUlDL1Gtog7D5JpA1s/s600/intermediate-team-of-the-week.jpeg" /></a>
+        </div>
+    </section>
+
+    <section id="all-ireland-camogie-final">
+
+        <h2>All-Ireland Camogie Final</h2>
+
+        <p>Commiserations to the Galway camogie team who <a
+                href="https://www.gaa.ie/article/cork-regain-the-glen-dimplex-all-ireland-senior-camogie-title">lost the
+                All-Ireland final against Cork by a single point</a>, 2-14 to 0-19.</p>
+        <div class="video-container"><iframe width="560" height="315"
+                src="https://www.youtube.com/embed/6eZZTtG7JOY?si=Rl7a-mPFz5sP6Je_" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+        <p>Thank you to <a href="https://www.wardandburke.com/">Ward and Burke Construction LTD</a> who, along with
+            Ballinderreen Hurling and Camogie Club, sponsored Fiona Ryan in the run up to the final.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPeB8suPfmFlo_2LLeJ7MnSffEhk-fi1H-0ed5xqutrhUlKAASMRRhd5DLQVzlhjVzW15BAm3h41GqCNYa5DYyg7Y04-o8oiAOHJIfAt5R0ANeJcl8Pv1HWXJLTzAUghyphenhyphenJM1A0tIBgnUyKtZiyZyO3XCMZOyoX6haji3I00-BYpv-Iz2KwN8QZjwg3ri1C/s1080/fiona-ryan-sponsors.jpeg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1080" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPeB8suPfmFlo_2LLeJ7MnSffEhk-fi1H-0ed5xqutrhUlKAASMRRhd5DLQVzlhjVzW15BAm3h41GqCNYa5DYyg7Y04-o8oiAOHJIfAt5R0ANeJcl8Pv1HWXJLTzAUghyphenhyphenJM1A0tIBgnUyKtZiyZyO3XCMZOyoX6haji3I00-BYpv-Iz2KwN8QZjwg3ri1C/s600/fiona-ryan-sponsors.jpeg" /></a>
+        </div>
+
+        <p>Thank you to all the organisers and parents who helped make the bus trip to the final such a success.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHthPdjRr2jPDNTkOS-yoIS1sUxULM4S3qBm3aJ97KoxAr6uZ5bkFUPTvwjjZFq0UcGnCMBiWij7Ry9AiUPzds-UAlbWXKWqQXN1oQmDFPo-VC4jRm8MBRaJUW84BYQL4NEJ0PT1YiA295HmC3cThKrlLV6AoDS9qPN3IcLSd4yF3rPbTSqrKIQAihr_fe/s2048/bus-to-all-ireland-final.jpg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1536" data-original-width="2048"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHthPdjRr2jPDNTkOS-yoIS1sUxULM4S3qBm3aJ97KoxAr6uZ5bkFUPTvwjjZFq0UcGnCMBiWij7Ry9AiUPzds-UAlbWXKWqQXN1oQmDFPo-VC4jRm8MBRaJUW84BYQL4NEJ0PT1YiA295HmC3cThKrlLV6AoDS9qPN3IcLSd4yF3rPbTSqrKIQAihr_fe/s600/bus-to-all-ireland-final.jpg" /></a>
+        </div>
+
+        <p>Thank you to Connacht Camogie who provided a €500 grant towards the cost of the bus.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsE1OP5RrDq66kfhh5R46819qOo6tDpyxKJiaKqUQ4wOcpkt6l2e1XglM7ZHRBiMvZs2uwL8g01kgDg-Sl9P8DHU4oIAPRqfcQj2GJakhQILNYYlSiXuGB3fl2Hyf5BjB1NSmZURMwgZxhk8D9qcdRhbcyyvN1OY-oAOQpf22a51hNp9R7ZkgBNEEut7P/s1080/connacht-camogie.jpg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1080" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsE1OP5RrDq66kfhh5R46819qOo6tDpyxKJiaKqUQ4wOcpkt6l2e1XglM7ZHRBiMvZs2uwL8g01kgDg-Sl9P8DHU4oIAPRqfcQj2GJakhQILNYYlSiXuGB3fl2Hyf5BjB1NSmZURMwgZxhk8D9qcdRhbcyyvN1OY-oAOQpf22a51hNp9R7ZkgBNEEut7P/s600/connacht-camogie.jpg" /></a>
+        </div>
+    </section>
+
+    <section id="coach-and-player-development">
+
+        <h2>GAA Coach and Player Webinar Series</h2>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUgcnEcIwhu4DR6aJ8zzajAoqBMdoVAXk-ZzyVbqweL24SEKhePOlZ1X8FbZTg_9ACRXvQq6o0xwADaHiUI9pzXIkIwMBTUeq8ibMjjJqEbv3VjFVXHmjI_xhr-2t5TO5zoK5h-3JXVAR5JKuJHaQ1G65khyphenhyphenKRBOogI8Pn7UJYd8x9mZGteJdOlR_fL926/s1920/coach-and-player-development-webinar.jpeg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1080" data-original-width="1920"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUgcnEcIwhu4DR6aJ8zzajAoqBMdoVAXk-ZzyVbqweL24SEKhePOlZ1X8FbZTg_9ACRXvQq6o0xwADaHiUI9pzXIkIwMBTUeq8ibMjjJqEbv3VjFVXHmjI_xhr-2t5TO5zoK5h-3JXVAR5JKuJHaQ1G65khyphenhyphenKRBOogI8Pn7UJYd8x9mZGteJdOlR_fL926/s600/coach-and-player-development-webinar.jpeg" /></a>
+        </div>
+
+        <p>The GAA Coach and Player Webinar Series 2026 running through to October.</p>
+
+        <p>The 15 free, hour-long webinars will provide learning opportunities for players and coaches across a wide
+            variety of topics presented by experienced practitioners and subject experts!</p>
+
+        <p>The full list of webinars can be viewed here: <a
+                href="https://learning.gaa.ie/CoachPlayerSummerWebinarSeries26">https://learning.gaa.ie/CoachPlayerSummerWebinarSeries26</a>
+        </p>
+    </section>
+
+    <section id="glor-na-nog">
+
+        <h2>Glór na nÓg</h2>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2fFnPAtVRT8z2q939MGwcr61jeX9yeRL-y1s0B2EqSFTdY2dqEX8zDgq2lVLjnzjRL_apcSVdvooI6KgS-ta4LvLt0BMYTQnk67kYQGYa4oZDsRszBwrL0wITalbNWyvUkwTEefC2bRZYfxkN2g_dmxQUzMlRZPMUjsxgKL1LOmk-wjTKcQ0tFII-Amm-/s1977/glor-na-nog.png"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="600"
+                    data-original-height="1977" data-original-width="1883"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2fFnPAtVRT8z2q939MGwcr61jeX9yeRL-y1s0B2EqSFTdY2dqEX8zDgq2lVLjnzjRL_apcSVdvooI6KgS-ta4LvLt0BMYTQnk67kYQGYa4oZDsRszBwrL0wITalbNWyvUkwTEefC2bRZYfxkN2g_dmxQUzMlRZPMUjsxgKL1LOmk-wjTKcQ0tFII-Amm-/s600/glor-na-nog.png" /></a>
+        </div>
+
+        <p>The Glór na nÓg competition is open to members between the ages of 12 and 18. The rules are:</p>
+
+        <p>In 30 words max. per question:</p>
+
+        <ul>
+            <li>Who is your favourite GAA player and why?</li>
+            <li>Imagine yourself in the future as a GAA star and you are talking to your favourite player. Think Big!
+                Tell them how they inspired you.</li>
+        </ul>
+
+        <h3>Prizes</h3>
+
+        <ul>
+            <li>Grand prize: 1 club will win €10,000</li>
+            <li>Province prizes: 4 clubs will win €5,000 each</li>
+            <li>County prizes: 28 clubs will win €2,000 each</li>
+        </ul>
+
+        <h3>How to Enter</h3>
+
+        <p>Go to <a href="https://www.gaa.ie/glornanog">https://www.gaa.ie/glornanog</a> to enter the competition.</p>
+    </section>
+
+    <section id="mass-intentions">
+        <h2>Mass Intentions</h2>
+        <p>The 10:30am Mass in Ballinderreen on the 16th of August will be offered for</p>
+        <ul style="text-align: left;">
+            <li> Michael Feely, Ballinderreen, 18 anniversary;</li>
+            <li>Olivia O'Brien, Pollough, 2nd anniversary.</li>
+        </ul>
+    </section>
+
+    <section id=“south-galway-athletics”>
+
+        <h2>South Galway Athletics</h2>
+
+        <p>Congratulations to Orlaith Mannion who finished 4th in her heat in the World U20 Athletics championships. She
+            finished in a time of 13.73 seconds, 5 hundredths of a second behind Linda Botková from Czechia who
+            qualified in 3rd place.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmx3sTTbQQj04bdRbFcctUOo2M-yPWChufNQCu_3iE-kNTSkO_tsPMxARXNSYwOCjRqrjdde_acOYikFIpgU212Ypum_WOP_Uz_QYbIxzbOGRkLa9xz4ByrFKSdI6PEojB4gydeikrv9IJ9o_DTj8mWWxwHU_JBeHOoM8GJPCm0GUQb39XzecMMjIzHU6/s1440/orlaith-mannion.jpeg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320"
+                    data-original-height="1440" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmx3sTTbQQj04bdRbFcctUOo2M-yPWChufNQCu_3iE-kNTSkO_tsPMxARXNSYwOCjRqrjdde_acOYikFIpgU212Ypum_WOP_Uz_QYbIxzbOGRkLa9xz4ByrFKSdI6PEojB4gydeikrv9IJ9o_DTj8mWWxwHU_JBeHOoM8GJPCm0GUQb39XzecMMjIzHU6/s320/orlaith-mannion.jpeg" /></a>
+        </div>
+
+        <p>Congratulations to Ciarán Considine who won the Streets of Galway junior race and to Alice Derrane who
+            finished in 3rd place.</p>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnhtcwIHuM0KlpksS97NRSDfImURzhEO0_khEhuj_Lx2-WH4caLixVDtndh0qaRwNpUhUI4bpsLT3ZCq49oc8w1VL6sAHfJfbVd1viESSC-GaN-4NbiQ1TeQrNR6l3nOHLficwU9682sPqDiRZbsAziFjfWhOg-rWrzlwYUmoRxzuKpXlgVCG45DIsoRV/s1281/streets-of-galway.jpeg"
+                style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600"
+                    data-original-height="1270" data-original-width="1281"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfnhtcwIHuM0KlpksS97NRSDfImURzhEO0_khEhuj_Lx2-WH4caLixVDtndh0qaRwNpUhUI4bpsLT3ZCq49oc8w1VL6sAHfJfbVd1viESSC-GaN-4NbiQ1TeQrNR6l3nOHLficwU9682sPqDiRZbsAziFjfWhOg-rWrzlwYUmoRxzuKpXlgVCG45DIsoRV/s600/streets-of-galway.jpeg" /></a>
+        </div>
+    </section>
+
+    <section id="“local-sports-plan”">
+
+        <h2>Galway County Local Sports Plan</h2>
+
+        <p>Galway County Council and Galway Sports Partnership are inviting people of all ages and abilities to help
+            shape the first Local Sports Plan for Galway County.</p>
+
+        <p>There will be a public consultation meeting in Gort Town Hall or Athenry Community Hall on the 26th of August
+            between 7 and 9pm.</p>
+
+        <p>Online surveys can also be completed at the following links:</p>
+
+        <ul>
+            <li><a class="autolink"
+                    href="https://www.galway.ie/en/news/2026/have-your-say-help-shape-future-sport-and-physical-activity-county-galway">https://www.galway.ie/en/news/2026/have-your-say-help-shape-future-sport-and-physical-activity-county-galway</a>
+            </li>
+            <li><a class="autolink"
+                    href="https://www.galwayactive.ie/blog/41/have-your-say-help-shape-the-future-of-sport-and-physical-activity-in-county-galway">https://www.galwayactive.ie/blog/41/have-your-say-help-shape-the-future-of-sport-and-physical-activity-in-county-galway</a>
+            </li>
+        </ul>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZIMj6sWlR56ebu5T_i_AhEiwkn2Eg-Uj9eyVj3hfUAdzPxiXwZGqikthjG2zsZsr7nv1D45hwc4n22GspDvq6h50h868v9VlRgdcQiMxl_cWonhfBCS8VUFnQeG2wDD1N0cYv8bxJdqL2j6o1Aae5hTHz6oCjsZX54F0qHWu06Ks_Zf4vJyvRtNeGh_BS/s1080/local-sports-plan-events.jpg"
+                style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0"
+                    data-original-height="1080" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZIMj6sWlR56ebu5T_i_AhEiwkn2Eg-Uj9eyVj3hfUAdzPxiXwZGqikthjG2zsZsr7nv1D45hwc4n22GspDvq6h50h868v9VlRgdcQiMxl_cWonhfBCS8VUFnQeG2wDD1N0cYv8bxJdqL2j6o1Aae5hTHz6oCjsZX54F0qHWu06Ks_Zf4vJyvRtNeGh_BS/s600/local-sports-plan-events.jpg"
+                    width="600" /></a>
+        </div>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJz3uldXjG4iGBw1XKdjHg59Or-wdG75SNsXrn3STWpuNOXiP2wf41NFAidFgJzxrqYydvtwLUaQuby70hFPsX2ZhVlopjsV5YQzniPkkiOHgiUDrtMzKaD1tI9DoWH_LTLx4P0Nja9EUB-L79c-HQmgk6994K_P1GAbgnJKumslX06qBUjcZuT2RXXQx5/s1080/local-sports-plan-online.jpg"
+                style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0"
+                    data-original-height="1080" data-original-width="1080"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJz3uldXjG4iGBw1XKdjHg59Or-wdG75SNsXrn3STWpuNOXiP2wf41NFAidFgJzxrqYydvtwLUaQuby70hFPsX2ZhVlopjsV5YQzniPkkiOHgiUDrtMzKaD1tI9DoWH_LTLx4P0Nja9EUB-L79c-HQmgk6994K_P1GAbgnJKumslX06qBUjcZuT2RXXQx5/s600/local-sports-plan-online.jpg"
+                    width="600" /></a>
+        </div>
+    </section>
+
+    <section id="gaa-regional-youth-forum">
+        <h2>GAA Regional Youth Forum</h2>
+        <div class="separator" style="clear: both;"><a
+                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZRKDKZdggfKUQpQKhhTxzQBwifTF0QxtH_WpCz3psaLnz06jP875LNogBLaPwYD01sDB53avlAZ3_nTxMoclqwl7Q_72ej7tpK-Bg0fyURWIpiF0bWdb83uLsx9muwm7M6Guy0xrZGdn46sx50DrSIExkwDqmxEZkBqr9a2d4gJ9rvbMCup4DuWZUI_m/s1350/gaa-regional-youth-forum.jpeg"
+                style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0"
+                    data-original-height="1350" data-original-width="1080" height="600"
+                    src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ZRKDKZdggfKUQpQKhhTxzQBwifTF0QxtH_WpCz3psaLnz06jP875LNogBLaPwYD01sDB53avlAZ3_nTxMoclqwl7Q_72ej7tpK-Bg0fyURWIpiF0bWdb83uLsx9muwm7M6Guy0xrZGdn46sx50DrSIExkwDqmxEZkBqr9a2d4gJ9rvbMCup4DuWZUI_m/s600/gaa-regional-youth-forum.jpeg" /></a>
+        </div>
+        <p>Galway GAA youth members (aged between 12 and 21) are invited to offer their opinions and experiences within
+            and
+            of Gaelic games at the GAA Youth Forum. The event takes place on Sunday, September 6th, between 11am and 3pm
+            at
+            <a
+                href="https://www.google.com/maps/place/The+DOME,+Thurles,+Co.+Tipperary./@52.6833597,-7.8285706,17z/data=!4m14!1m7!3m6!1s0x485cc4937106a607:0x7e3dc2c74a5a9437!2sThe+DOME,+Thurles,+Co.+Tipperary.!8m2!3d52.6833565!4d-7.8259957!16s%2Fg%2F11b6qjcz5z!3m5!1s0x485cc4937106a607:0x7e3dc2c74a5a9437!8m2!3d52.6833565!4d-7.8259957!16s%2Fg%2F11b6qjcz5z?entry=ttu&amp;g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D">The
+                Dome, Semple Stadium, Thurles</a>.
+        </p>
+        <p>Use the details in the poster to register for the event.</p>
+    </section>
+
+    <section id="score-of-the-week">
+
+        <h2>Score of the Week</h2>
+        <div class="video-container"><iframe width="560" height="315"
+                src="https://www.youtube.com/embed/TjvXkWVeW5Q?si=tf7y7g-hirqh24n9" title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    </section>
+
+    <section id="footer-image">
+        <div class="separator" style="clear: both; text-align: center;"><a
+                href="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg?key=X4nLg5bKc1oZJ2U79zU9AA"
+                style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048"
+                    data-original-width="1448"
+                    src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7R2rq0x-L9l-GgjKsvGGmVZCioUvh9DSvIsmvvNLTiyRnym0d59mqaiCpZE1pqJ7PaCWs2_0hU03GALup0ZLO9SahRrHQpivUPQpFnZRlmzqyORFEDFscvaF3PpENfuzJPyp9Kg=s16000?key=X4nLg5bKc1oZJ2U79zU9AA" /></a>
+        </div>
+    </section>
+</article>
