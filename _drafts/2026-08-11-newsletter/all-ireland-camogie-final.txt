@@ -4,7 +4,7 @@
 
 Commiserations to the Galway camogie team who [lost the All-Ireland final against Cork by a single point](https://www.gaa.ie/article/cork-regain-the-glen-dimplex-all-ireland-senior-camogie-title), 2-14 to 0-19.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6eZZTtG7JOY?si=Rl7a-mPFz5sP6Je_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6eZZTtG7JOY?si=Rl7a-mPFz5sP6Je_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 Thank you to [Ward and Burke Construction LTD](https://www.wardandburke.com/) who, along with Ballinderreen Hurling and Camogie Club, sponsored Fiona Ryan in the run up to the final.
 
