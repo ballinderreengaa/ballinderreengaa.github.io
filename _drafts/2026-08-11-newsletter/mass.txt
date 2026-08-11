@@ -1,0 +1,8 @@
+<section id="mass-intentions">
+	<h2>Mass Intentions</h2>
+	<p>The 10:30am Mass in Ballinderreen on the 16th of August will be offered for</p>
+  <ul style="text-align: left;">
+	  <li> Michael Feely, Ballinderreen, 18 anniversary;</li>
+		<li>Olivia O'Brien, Pollough, 2"d anniversary.</li>
+  </ul>
+</section>
