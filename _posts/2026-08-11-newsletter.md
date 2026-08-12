@@ -50,7 +50,7 @@ categories: []
         </p>
     </section>
 
-    <section id=“premier-intermediate-championship”>
+    <section id="premier-intermediate-championship">
 
         <h2>Premier Intermediate Championship</h2>
 
