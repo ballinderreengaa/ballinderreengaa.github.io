@@ -80,6 +80,14 @@ categories: []
                     data-original-height="1080" data-original-width="1080"
                     src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAzJVVVziyLI7Bb1MJj_yOqyMRnzx4qj_XyU-5NUVLmzMEFBKc9l6upfAqIq7TyEpmwVRVri3hg0yR-J0ihO5V13UiaKi2G5bsoZi4w1uZ0N6IjonIisZsKhf8DZ1VqHPnHm4-Z2583D5gTB_J-tVYdlrof4epOw5kxOGdKyTNLiUlDL1Gtog7D5JpA1s/s600/intermediate-team-of-the-week.jpeg" /></a>
         </div>
+
+        <div class="video-container">
+            <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/4cL2yWiybHQ?si=WOkKiZmdAo3Ka9Gg&amp;start=4513"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
     </section>
 
     <section id="all-ireland-camogie-final">
