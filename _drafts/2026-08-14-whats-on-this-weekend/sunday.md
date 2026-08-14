@@ -5,7 +5,7 @@
 #### U17 B Hurling Championship
 
 Portumna v Ballinderreen<br />
-Venue: [Portumna](google.com/maps?cid=12962812045983485178&source=mc<br />
+Venue: [Portumna](google.com/maps?cid=12962812045983485178&source=mc)<br />
 Time: 11am
 
 ### Streaming
