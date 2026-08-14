@@ -55,7 +55,7 @@ categories: []
         <h2>Premier Intermediate Championship</h2>
 
         <p>Congratulations to the intermediate hurling team who won their opening championship against Rahoon-Newcastle
-            4-21 to 1-18.</p>
+            4-2w to 1-18.</p>
 
         <p><iframe title="Ballinderreen v Rahoon-Newcastle" allowtransparency="true" height="150" width="100%"
                 style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no"
