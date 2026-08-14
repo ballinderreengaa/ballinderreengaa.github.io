@@ -1,4 +1,4 @@
-## Friday, 7th of August
+## Friday, 14th of August
 
 ### Ballinderreen
 
